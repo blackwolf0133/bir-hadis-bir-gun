@@ -1,0 +1,65 @@
+{
+ "id": "001",
+ "slug": "dort_soru",
+ "title": "Dört Soru",
+ "seed": 9011,
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Kıyamet günü hiç kimse yerinden kıpırdayamayacak. Dört soruya cevap vermeden.",
+   "prompt": "a vast misty plain at dawn under a pale gold sky, an endless crowd of tiny distant faceless figures standing perfectly still, seen from far above and behind, light rays breaking through clouds",
+   "sis": 0.3
+  },
+  {
+   "text": "Bunu Peygamber Efendimiz haber verdi. Soruları da tek tek saydı.",
+   "prompt": "an old closed leather-bound book lying on a wooden folding reading stand beside a small oil lamp in a quiet dark empty room, no people, warm lamp glow",
+   "yer": "Tirmizî, Kıyâme 1",
+   "sicak": true,
+   "insan": false
+  },
+  {
+   "text": "Birincisi: Ömrünü nerede tükettin? Günler, bir ekranın ışığında akıp gitmedi mi?",
+   "prompt": "a large hourglass on a bedside table at night with its sand almost run out, a phone screen glowing blue beside it, in the dark background ONE single faceless bare-headed young man asleep alone in a single bed"
+  },
+  {
+   "text": "İkincisi: Öğrendiklerinle ne yaptın? Bilmek yetmez, yaşamak gerekir.",
+   "prompt": "ONE single faceless young woman in a headscarf sitting alone at a desk covered with closed notebooks and books under a desk lamp, looking out of a dark window at the night city lights, nobody else in the room"
+  },
+  {
+   "text": "Üçüncüsü: Malını nereden kazandın, nereye harcadın? Her kuruşun iki sorusu var.",
+   "prompt": "a small old grocery shop at dusk, an old brass balance scale and a few coins on the wooden counter, a faceless bare-headed shopkeeper man in a vest standing behind the counter, warm light",
+   "sicak": true
+  },
+  {
+   "text": "Dördüncüsü: Bedenini nerede yıprattın? Sana emanet edilen o bedeni.",
+   "prompt": "a tired faceless bare-headed man in a worn work jacket sitting alone on concrete stairs under a streetlamp at night, a white hard hat on the step beside him, city lights in the background"
+  },
+  {
+   "text": "Sorular bize önceden söylendi. Cevapları ise her gün, kendi ellerimizle yazıyoruz.",
+   "prompt": "first light of sunrise over old city rooftops, in the distance a small Ottoman-style mosque with a single dome topped by a golden crescent finial and one slender minaret, no crosses, an open window with white curtains moving in the foreground, no people, golden light",
+   "sicak": true,
+   "insan": false
+  },
+  {
+   "text": "Allah'ım, o gün bizi mahcup etme. Bu dört soruyu bir kardeşine de hatırlat.",
+   "prompt": "two faceless bare-headed men in long coats walking side by side across a quiet stone courtyard at dawn, seen from behind, long soft shadows, birds in the sky"
+  }
+ ],
+ "hisse": "Hiçbir kul; ömrünü nerede tükettiğinden, ilmiyle ne yaptığından, malını nereden kazanıp nereye harcadığından, bedenini nerede yıprattığından sorulmadıkça kıyamet günü yerinden kıpırdayamaz.",
+ "kaynak": "Tirmizî, Kıyâme 1",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Kıyamet günü sana sorulacak 4 soru 🤲\n\nPeygamber Efendimiz bu soruları bize önceden haber verdi. Sen hangisine hazırsın?\n\nKaynak: Tirmizî, Kıyâme 1\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#ahiret",
+  "#hesapgünü",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/4950 (Sahih, Tirmizî 2417; Ebû Berze el-Eslemî)",
+  "https://www.islamveihsan.com/hicbir-kul-kiyamet-gununde-omrunu-nerede-tukettiginden-hadisi.html (Tirmizî, Kıyâme 1)",
+  "https://hadithprophet.com/Hadith-english-60619.html (Tirmizî: hasen sahih)",
+  "NOT: İbn Mes'ûd'dan gelen 'beş şey' rivayeti Tirmizî'ye göre garîb/zayıf; o kullanılmadı."
+ ]
+}

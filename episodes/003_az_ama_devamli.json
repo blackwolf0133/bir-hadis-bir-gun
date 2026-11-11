@@ -1,0 +1,68 @@
+{
+ "id": "003",
+ "slug": "az_ama_devamli",
+ "title": "Az Ama Devamlı",
+ "seed": 9033,
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Allah'ın en sevdiği amel, en büyük olanı değil. Peki hangisi?",
+   "prompt": "a single small oil lamp glowing on the windowsill of a dark old house at night, rain on the window glass, no people",
+   "sicak": true,
+   "insan": false
+  },
+  {
+   "text": "Ramazan'da her gece bir cüz okudun. Bayramdan sonra Kur'an rafa kalktı.",
+   "prompt": "a high wooden wall shelf in a dim quiet empty living room, on the shelf lies one single closed book wrapped in a clean green cloth, nothing else on the shelf, no people, no figurines",
+   "insan": false
+  },
+  {
+   "text": "Komşun ise her sabah yalnızca bir sayfa okuyor. Yıllardır, hiç bırakmadan.",
+   "prompt": "an elderly faceless woman in a white headscarf sitting alone by a window at sunrise with an open book on a small wooden folding stand, no visible text, plants on the windowsill, soft morning light",
+   "sicak": true
+  },
+  {
+   "text": "Peygamber Efendimiz'e soruldu: Allah'a en sevimli amel hangisidir? Buyurdu ki: Az da olsa devamlı olanı.",
+   "prompt": "close-up of rain drops falling one by one onto a large smooth grey stone with a small hollow worn into its top, nothing standing on the stone, no people, soft light",
+   "yer": "Buhârî, Rikâk 18 · Müslim, Müsâfirîn 216",
+   "insan": false
+  },
+  {
+   "text": "Damla damla göl olur derler. Damlanın sırrı büyüklüğünde değil, hiç durmamasında.",
+   "prompt": "a small mountain lake at dawn being filled by a thin steady stream of water falling from a rock, light mist, empty shore, no people",
+   "sis": 0.25,
+   "insan": false
+  },
+  {
+   "text": "Bugün küçük bir şey seç. Bir sayfa, bir dua, bir selam.",
+   "prompt": "a faceless bare-headed young man in a jacket greeting an elderly faceless bare-headed man with a cane on an apartment staircase in the morning, warm light from a window",
+   "sicak": true
+  },
+  {
+   "text": "Ve yarın da bırakma. Az olsun, ama hiç eksik olmasın.",
+   "prompt": "a row of five small clay pots with green seedlings on an empty balcony railing, each seedling slightly taller than the one before from left to right, morning sun, no people",
+   "insan": false
+  },
+  {
+   "text": "Seninle birlikte başlayacak bir kardeşine gönder.",
+   "prompt": "two faceless bare-headed men in jackets walking side by side toward a small Ottoman-style mosque with a single dome topped by a golden crescent finial and one slender minaret, no crosses at sunrise, seen from behind, quiet street, soft golden light",
+   "sicak": true
+  }
+ ],
+ "hisse": "Allah'a en sevimli amel, az da olsa devamlı olanıdır.",
+ "kaynak": "Buhârî, Rikâk 18 · Müslim, Müsâfirîn 216",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Az ama devamlı 🌱\n\nRamazan'da başlayıp bıraktığın bir amel var mı? Bugün küçüğünden yeniden başla.\n\nKaynak: Buhârî, Rikâk 18 · Müslim, Müsâfirîn 216\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#ibadet",
+  "#istikrar",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadithunlocked.com/bukhari/81/18 (Buhârî 6465, Rikâk 18; Hz. Âişe)",
+  "https://www.islamveihsan.com/az-da-olsa-devamli-yapilan-ibadetin-onemi.html (Diyanet, Hadislerle İslam: Müslim, Müsâfirîn 216)",
+  "https://sorularlaislamiyet.com/node/181303 (Müslim, Müsâfirîn 215-218)"
+ ]
+}
