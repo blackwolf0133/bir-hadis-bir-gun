@@ -13,7 +13,7 @@
   },
   {
    "text": "Sabah. Otobüs kalabalık. Herkes yorgun, herkes sessiz.",
-   "prompt": "inside a crowded city bus at early morning, several faceless bare-headed passengers in coats standing, grey light through the windows"
+   "prompt": "inside a crowded city bus at early morning, several faceless bare-headed passengers in coats standing, grey light through the windows, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
   },
   {
    "text": "Şoföre bir günaydın dedin. Fırıncıya bir teşekkür.",
@@ -40,11 +40,11 @@
   },
   {
    "text": "Bugün kaç sadaka verdin? Saymaya başla.",
-   "prompt": "a calm city street at noon seen from high above, many tiny distant faceless pedestrians walking, sunlight between buildings"
+   "prompt": "a calm city street at noon seen from high above, many tiny distant faceless pedestrians walking, sunlight between buildings, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
   },
   {
    "text": "Bugün güzel sözünü esirgemediğin birine gönder.",
-   "prompt": "two faceless bare-headed men in jackets walking together on a sunny street lined with trees, seen from behind, autumn leaves",
+   "prompt": "two faceless bare-headed men in jackets walking together on a sunny street lined with trees, seen from behind, autumn leaves, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
    "sicak": true
   }
  ],

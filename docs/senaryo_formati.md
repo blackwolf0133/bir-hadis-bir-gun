@@ -17,6 +17,7 @@ Görsel: yüzsüz, sinematik, stilize 3D çizim (FLUX.2-klein, `kanal/ayar.py`),
 - Peygamberler, sahabe, ehl-i beyt, melekler **ASLA çizilmez, sembolle bile kişileştirilmez.** Hz. Peygamber'den sadece söz aktarılır.
 - Tüm figürler **yüzsüz** (motor stili zaten zorlar). Erkekler başı açık/sade kıyafet; başörtüsü sadece kadın olarak tarif edilen figürde.
 - İnsan olmayan sahnelere `"insan": false` ekle (ayrı "boş sahne" stili kullanılır, model figür eklemez) ve prompt'a "no people" yaz.
+- Şehir/sokak/pencere manzarası arka planında: "plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings" ekle (model arka plana kilise/haç koyabiliyor; 11 Kasım'da 001'de yakalandı). Cami gerekiyorsa sadece tarif edilen hilalli cami.
 - Kişi sayısını açık yaz ("ONE single…", "two … men"). Camiler: "dome topped by a golden crescent finial, no crosses".
 - Yazı/hat/levha isteme. Mushaf gösterilecekse saygılı (örtülü, rahlede, yazı görünmeden). Kan, yara, şiddet yok.
 

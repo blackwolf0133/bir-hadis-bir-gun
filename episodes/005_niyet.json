@@ -7,11 +7,11 @@
  "scenes": [
   {
    "text": "Aynı işi yapan iki kişi. Biri sevap kazanıyor, öbürü sadece yoruluyor.",
-   "prompt": "two faceless bare-headed men in identical blue work overalls sweeping the same empty street side by side at dawn, long shadows, quiet city"
+   "prompt": "two faceless bare-headed men in identical blue work overalls sweeping the same empty street side by side at dawn, long shadows, quiet city, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
   },
   {
    "text": "İkisi de sabah erkenden kalktı. İkisi de aynı yolu süpürdü.",
-   "prompt": "an empty clean city street at sunrise, two brooms leaning against a lamp post, fallen autumn leaves, no people",
+   "prompt": "an empty clean city street at sunrise, two brooms leaning against a lamp post, fallen autumn leaves, no people, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
    "insan": false,
    "sicak": true
   },

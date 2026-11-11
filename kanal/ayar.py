@@ -59,7 +59,7 @@ SC.QA_PROMPT = (
     "features (eyes, nose, mouth) counts as a SEVERE error because all figures must be faceless; extra or missing "
     "limbs, deformed hands, objects duplicated when there should be one, objects merging into bodies, floating or "
     "impossible objects, broken perspective, any visible text, letters or calligraphy (severe), any winged or angelic "
-    "being (severe), any cross or church symbol (severe), any person, figure, doll or figurine in a scene whose "
+    "being (severe), any cross or church symbol (severe; look carefully at small domes, spires and towers in the background and at window views), any person, figure, doll or figurine in a scene whose "
     "description says no people (severe), a woman's headscarf on a figure described as a man (severe), "
     "any gore, blood or injury (severe). Ignore artistic style. "
     "Reply ONLY with JSON: {{\"ok\": true/false, \"siddet\": 0-10 (0 = flawless, 10 = unusable), "
