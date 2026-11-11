@@ -93,7 +93,7 @@ jobs:
         with:
           path: ~/.cache/huggingface
           key: hf-klein4b-v1
-      - run: pip install huggingface_hub
+      - run: pip install huggingface_hub -r requirements.txt
         if: steps.sel.outputs.go == '1'
       - name: Çiz
         if: steps.sel.outputs.go == '1'
