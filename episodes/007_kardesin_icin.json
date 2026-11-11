@@ -1,0 +1,65 @@
+{
+ "id": "007",
+ "slug": "kardesin_icin",
+ "title": "Kardeşin İçin",
+ "seed": 9077,
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Arkadaşın terfi aldı. Tebrik ettin. Ama içinden ne geçti?",
+   "prompt": "an office at evening, a small group celebrating with a cake in the blurred background, in the foreground ONE faceless bare-headed man in a jacket standing apart holding a paper cup"
+  },
+  {
+   "text": "Aynı işe başlamıştınız. O öne geçti.",
+   "prompt": "two empty office chairs side by side at two desks in an empty office at night, one desk with a small trophy on it, city lights through the window, no people",
+   "insan": false
+  },
+  {
+   "text": "Kalbin biraz sıkıştı. Bu çok insani.",
+   "prompt": "ONE single faceless bare-headed man in a jacket walking alone on a rainy street at night under an umbrella, seen from behind, reflections on wet pavement"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Sizden biriniz, kendisi için istediğini kardeşi için de istemedikçe, gerçek anlamda iman etmiş olmaz.",
+   "prompt": "two small lit oil lamps side by side on a stone windowsill at night, warm glow, no people",
+   "insan": false,
+   "yer": "Buhârî, Îmân 7 · Müslim, Îmân 71",
+   "sicak": true
+  },
+  {
+   "text": "Yani onun sevinci, senin eksiğin değil.",
+   "prompt": "two trees growing side by side on a green hill at sunrise, their branches touching, soft light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Telefonu açtın. Bu sefer içinden gelerek yazdın: Allah hayırlı etsin.",
+   "prompt": "a phone on a cafe table beside a glass of tea in morning sunlight, screen glowing softly, no readable text, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "O gece ilk kez, gerçekten hafifledin.",
+   "prompt": "ONE single faceless bare-headed man in a jacket sitting on a balcony at night looking at a calm starry sky over the city, relaxed posture",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, sevincine ortak olmak istediğin kardeşine gönder.",
+   "prompt": "two faceless bare-headed men in jackets shaking hands warmly in front of a small Ottoman-style mosque with a single dome topped by a golden crescent finial and one slender minaret, no crosses at sunset, seen from the side"
+  }
+ ],
+ "hisse": "Sizden biriniz, kendisi için istediğini kardeşi için de istemedikçe, gerçek anlamda iman etmiş olmaz.",
+ "kaynak": "Buhârî, Îmân 7 · Müslim, Îmân 71",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Onun sevinci, senin eksiğin değil 🤝\n\nSon olarak kimin sevincine içtenlikle ortak oldun?\n\nKaynak: Buhârî, Îmân 7 · Müslim, Îmân 71\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#kardeşlik",
+  "#haset",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/66520 (Sahih, muttefekun aleyh; Nevevî'nin Kırk Hadisi 13; Enes)",
+  "https://sorularlaislamiyet.com/node/405208 (Buhârî, Îmân 7; Müslim, Îmân 71-72)"
+ ]
+}

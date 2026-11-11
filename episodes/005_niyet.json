@@ -1,0 +1,65 @@
+{
+ "id": "005",
+ "slug": "niyet",
+ "title": "Aynı İş, İki Niyet",
+ "seed": 9055,
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Aynı işi yapan iki kişi. Biri sevap kazanıyor, öbürü sadece yoruluyor.",
+   "prompt": "two faceless bare-headed men in identical blue work overalls sweeping the same empty street side by side at dawn, long shadows, quiet city"
+  },
+  {
+   "text": "İkisi de sabah erkenden kalktı. İkisi de aynı yolu süpürdü.",
+   "prompt": "an empty clean city street at sunrise, two brooms leaning against a lamp post, fallen autumn leaves, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Biri, yaşlılar düşmesin, çocuklar rahat yürüsün diye çalıştı.",
+   "prompt": "ONE single faceless bare-headed man in blue work overalls sweeping leaves from a sidewalk while ONE elderly faceless bare-headed man with a cane walks past safely, morning light"
+  },
+  {
+   "text": "Öbürü sadece saat dolsun diye.",
+   "prompt": "ONE single faceless bare-headed man in blue work overalls leaning on a broom looking at a large clock on a wall, bored posture, grey morning"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Ameller niyetlere göredir. Herkese niyet ettiği şey vardır.",
+   "prompt": "a single candle burning steadily in a dark quiet room, soft warm glow, no people",
+   "insan": false,
+   "yer": "Buhârî, Bed'ü'l-vahy 1 · Müslim, İmâre 155",
+   "sicak": true
+  },
+  {
+   "text": "İşe giderken, yemek yaparken, ders çalışırken bile.",
+   "prompt": "a warm kitchen at evening, a pot steaming on the stove, fresh bread on the table, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Niyetini değiştir, sıradan günün ibadete dönüşsün.",
+   "prompt": "first light of sunrise over old city rooftops, in the distance a small Ottoman-style mosque with a single dome topped by a golden crescent finial and one slender minaret, no crosses, birds flying, golden light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün işe hangi niyetle başladın? Bir kardeşine de sor.",
+   "prompt": "two faceless bare-headed men in work jackets drinking tea on a bench outside a workshop at morning, seen from the side, steam from the tea glasses"
+  }
+ ],
+ "hisse": "Ameller niyetlere göredir. Herkese niyet ettiği şey vardır.",
+ "kaynak": "Buhârî, Bed'ü'l-vahy 1 · Müslim, İmâre 155",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Aynı iş, iki niyet ⚖️\n\nBugün yaptığın sıradan bir işi neye niyet ederek yapabilirsin?\n\nKaynak: Buhârî, Bed'ü'l-vahy 1 · Müslim, İmâre 155\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#niyet",
+  "#ihlas",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/66511 (Sahih, muttefekun aleyh; Nevevî'nin Kırk Hadisi 1; Hz. Ömer)",
+  "https://www.islamveihsan.com/ameller-niyetlere-goredir-hadisi.html (Buhârî, Bed'ü'l-vahy 1; Müslim, İmâre 155)"
+ ]
+}

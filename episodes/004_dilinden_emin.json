@@ -1,0 +1,65 @@
+{
+ "id": "004",
+ "slug": "dilinden_emin",
+ "title": "Dilinden Emin",
+ "seed": 9044,
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Bir mesaj yazdın, gönder tuşuna basmak üzeresin. Dur. Önce şunu dinle.",
+   "prompt": "a phone lying on a dark wooden table at night, its screen glowing with a blurred chat bubble, no readable text, a cup of tea beside it, no people",
+   "insan": false
+  },
+  {
+   "text": "Grupta biri hakkında konuşuluyor. Herkes bir şey ekliyor.",
+   "prompt": "three faceless bare-headed young men in jackets sitting on a sofa in a dim living room at night, each looking down at a glowing phone, blue screen light"
+  },
+  {
+   "text": "Yazdığın cümle komik. Ama o kişi okusa, gülmezdi.",
+   "prompt": "a faceless bare-headed young man sitting alone on a bed in a dark room, holding a glowing phone, tense posture, no visible text"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Müslüman, dilinden ve elinden Müslümanların emin olduğu kimsedir.",
+   "prompt": "a calm still lake at dusk reflecting the sky perfectly, a small wooden pier, soft golden light, no people",
+   "insan": false,
+   "yer": "Buhârî, Îmân 4 · Müslim, Îmân 64",
+   "sicak": true
+  },
+  {
+   "text": "Dil bugün, ekranda yazdığımız her kelime demek aslında.",
+   "prompt": "close-up of a smartphone keyboard glowing in the dark, abstract soft light, no readable letters, no people, no hands",
+   "insan": false
+  },
+  {
+   "text": "Mesajı sildin. Telefonu kapattın. Kimse fark etmedi bile.",
+   "prompt": "a phone lying face down on a bedside table in a dark room, a small warm lamp switched on beside it, peaceful mood, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Ama o gece biri, senin yüzünden kırılmadan huzurla uyudu.",
+   "prompt": "a quiet apartment building at night seen from the street, one window softly lit with a warm light, stars above, no people outside",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Diline sahip olmaya çalışan bir kardeşine gönder.",
+   "prompt": "two faceless bare-headed men in jackets walking side by side along an empty seaside promenade at dusk, seen from behind, soft light"
+  }
+ ],
+ "hisse": "Müslüman, dilinden ve elinden Müslümanların emin olduğu kimsedir.",
+ "kaynak": "Buhârî, Îmân 4 · Müslim, Îmân 64",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Göndermeden önce dur ✋\n\nBugün dilin yerine parmakların konuşuyor. Senin mesajlarından herkes emin mi?\n\nKaynak: Buhârî, Îmân 4 · Müslim, Îmân 64\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#dil",
+  "#gıybet",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/10101 (Sahih, muttefekun aleyh; Abdullah b. Amr)",
+  "https://www.islamveihsan.com/musluman-kimdir.html (Buhârî, Îmân 4-5; Müslim, Îmân 64-65)"
+ ]
+}

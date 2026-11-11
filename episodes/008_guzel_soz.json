@@ -1,0 +1,66 @@
+{
+ "id": "008",
+ "slug": "guzel_soz",
+ "title": "Güzel Söz",
+ "seed": 9088,
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Cebinde hiç para yokken bile sadaka verebilir misin? Evet.",
+   "prompt": "an empty open wallet lying on a wooden table beside a few keys in soft morning light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Sabah. Otobüs kalabalık. Herkes yorgun, herkes sessiz.",
+   "prompt": "inside a crowded city bus at early morning, several faceless bare-headed passengers in coats standing, grey light through the windows"
+  },
+  {
+   "text": "Şoföre bir günaydın dedin. Fırıncıya bir teşekkür.",
+   "prompt": "a small neighborhood bakery at morning, ONE faceless bare-headed young man in a jacket standing at the counter, ONE faceless bare-headed baker man behind it, fresh bread, warm light",
+   "sicak": true
+  },
+  {
+   "text": "Annene bir: İyi ki varsın.",
+   "prompt": "a warm kitchen in the morning, ONE elderly faceless woman in a white headscarf pouring tea, ONE faceless bare-headed young man sitting at the table, sunlight through the window",
+   "sicak": true
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Güzel söz sadakadır.",
+   "prompt": "a single blooming pomegranate tree in a quiet stone courtyard at sunrise, a fountain, birds, no people",
+   "insan": false,
+   "yer": "Buhârî, Cihâd 128 · Müslim, Zekât 56",
+   "sicak": true
+  },
+  {
+   "text": "Para gerekmez. Sadece bir kalp ve birkaç kelime.",
+   "prompt": "close-up of a small glass of tea and a single folded paper note on a windowsill in morning light, no readable text, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün kaç sadaka verdin? Saymaya başla.",
+   "prompt": "a calm city street at noon seen from high above, many tiny distant faceless pedestrians walking, sunlight between buildings"
+  },
+  {
+   "text": "Bugün güzel sözünü esirgemediğin birine gönder.",
+   "prompt": "two faceless bare-headed men in jackets walking together on a sunny street lined with trees, seen from behind, autumn leaves",
+   "sicak": true
+  }
+ ],
+ "hisse": "Güzel söz sadakadır.",
+ "kaynak": "Buhârî, Cihâd 128 · Müslim, Zekât 56",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Parasız sadaka 🤍\n\nBugün kime güzel bir söz söyleyeceksin? Yorumlara o sözü yaz.\n\nKaynak: Buhârî, Cihâd 128 · Müslim, Zekât 56\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#sadaka",
+  "#güzelsöz",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://www.islamveihsan.com/guzel-soz-sadakadir-hadisinin-serhi.html (Ebû Hüreyre; Buhârî, Edeb 34, Cihâd 128; Müslim, Zekât 56)",
+  "https://www.islamveihsan.com/soz-ile-ilgili-hadisler.html (Diyanet Hadislerle İslam: Buhârî, Cihâd 128; Müslim, Zekât 56)"
+ ]
+}

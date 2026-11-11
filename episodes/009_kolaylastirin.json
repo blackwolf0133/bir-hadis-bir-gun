@@ -1,0 +1,67 @@
+{
+ "id": "009",
+ "slug": "kolaylastirin",
+ "title": "Kolaylaştırın",
+ "seed": 9099,
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Çocuğuna namazı sevdirmek mi istiyorsun, korkutmak mı?",
+   "prompt": "a quiet living room at evening, a small prayer rug laid on the carpet, a warm lamp, a child's toy car beside it, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Oğlun ilk kez seccadeye durdu. Ama yanlış yöne döndü.",
+   "prompt": "ONE small faceless bare-headed boy standing alone on a small prayer rug in a living room, turned slightly sideways, warm evening light"
+  },
+  {
+   "text": "İçinden bir azar geçti. Söyleseydin, belki bir daha durmazdı.",
+   "prompt": "ONE faceless bare-headed father in a sweater standing in a doorway at evening, looking at ONE small faceless boy on a prayer rug, soft shadows"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Kolaylaştırınız, zorlaştırmayınız. Müjdeleyiniz, ürkütmeyiniz.",
+   "prompt": "a gentle river flowing easily around smooth stones in a green valley at sunrise, soft mist, no people",
+   "insan": false,
+   "yer": "Buhârî, İlim 11 · Müslim, Cihâd 6",
+   "sicak": true
+  },
+  {
+   "text": "Gülümsedin. Onu yavaşça doğru yöne çevirdin.",
+   "prompt": "ONE faceless bare-headed father kneeling beside ONE small faceless boy on a prayer rug, both facing the same direction, warm lamp light, calm mood",
+   "sicak": true
+  },
+  {
+   "text": "Ve dedin ki: Aferin, bugün çok güzel başladın.",
+   "prompt": "a large prayer rug and a small prayer rug laid side by side on a carpet in warm evening light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Din, ürküterek değil, sevdirerek öğretilir.",
+   "prompt": "a small Ottoman-style mosque with a single dome topped by a golden crescent finial and one slender minaret, no crosses at dusk with warm light glowing from its windows, a quiet street, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Çocuğuna dini sevdirmeye çalışan bir anne babaya gönder.",
+   "prompt": "ONE faceless bare-headed father and ONE small faceless boy walking side by side toward a small mosque at sunset, seen from behind, long shadows",
+   "sicak": true
+  }
+ ],
+ "hisse": "Kolaylaştırınız, zorlaştırmayınız. Müjdeleyiniz, ürkütmeyiniz.",
+ "kaynak": "Buhârî, İlim 11 · Müslim, Cihâd 6",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Sevdirerek öğret 🌱\n\nSana dini ilk kim sevdirdi? Yorumlarda ona bir dua bırak.\n\nKaynak: Buhârî, İlim 11 · Müslim, Cihâd 6\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#çocuk",
+  "#aile",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5866 (Sahih, muttefekun aleyh; Enes b. Mâlik)",
+  "https://www.islamveihsan.com/kolaylastiriniz-zorlastirmayiniz-mujdeleyiniz-urkutmeyiniz-hadisi.html (Buhârî, İlim 11; Müslim, Cihâd 6-7)"
+ ]
+}

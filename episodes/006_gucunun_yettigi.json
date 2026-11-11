@@ -1,0 +1,66 @@
+{
+ "id": "006",
+ "slug": "gucunun_yettigi",
+ "title": "Gücünün Yettiği",
+ "seed": 9066,
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Bu gece kendine çok yüklendin. Kur'an'ın sana bir cevabı var.",
+   "prompt": "ONE single faceless young woman in a headscarf sitting alone at a kitchen table late at night, head resting on her folded arms, piles of papers and a laptop, a single lamp"
+  },
+  {
+   "text": "Ev, iş, çocuklar, borçlar. Hepsi aynı anda.",
+   "prompt": "an untidy dark kitchen at night with stacked dishes, school bags and envelopes on the counter, a wall clock, no people, no readable text",
+   "insan": false
+  },
+  {
+   "text": "İçinden bir ses: Ben bunu kaldıramam, diyor.",
+   "prompt": "ONE single faceless young woman in a headscarf standing alone by a rainy window at night, looking out, rain streaks on glass, city lights blurred"
+  },
+  {
+   "text": "Allah, Bakara Suresi'nde şöyle buyuruyor: Allah kişiye ancak gücünün yeteceği kadar yükler.",
+   "prompt": "an open book on a wooden folding reading stand under a soft beam of light in a quiet dark room, no visible text, no people",
+   "insan": false,
+   "yer": "Bakara 2/286 (Diyanet meali)",
+   "sicak": true
+  },
+  {
+   "text": "Yani taşıdığın yük, seni ezmek için değil.",
+   "prompt": "a strong old olive tree on a hill at dawn, its branches heavy with fruit but standing firm, soft wind, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Sana verildiyse, taşıyabileceğin içindir.",
+   "prompt": "a narrow mountain path climbing toward a sunrise, small stones lining the way, mist in the valley, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün sadece bir adım at. Kalanı için dua et.",
+   "prompt": "ONE single faceless young woman in a headscarf opening a window at sunrise, warm golden light entering the room, plants on the windowsill",
+   "sicak": true
+  },
+  {
+   "text": "Yükü ağır olan bir kardeşine gönder.",
+   "prompt": "two faceless women in headscarves sitting together on a bench in a quiet park at sunrise, seen from behind, autumn leaves, soft light",
+   "sicak": true
+  }
+ ],
+ "hisse": "Allah kişiye ancak gücünün yeteceği kadar yükler.",
+ "kaynak": "Bakara 2/286",
+ "kart_baslik": "ÂYET-İ KERÎME",
+ "caption": "Kaldıramam deme 🤍\n\nŞu an omzundaki en ağır yük ne? Bugün atabileceğin tek adım ne?\n\nKaynak: Bakara 2/286\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#ayet",
+  "#kuran",
+  "#sabır",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://quran.com/tr/bakara/286 (Diyanet İşleri meali: 'Allah kişiye ancak gücünün yeteceği kadar yükler')",
+  "https://qurano.com/tr/2-al-baqara/ayah-286/ (Diyanet meali)"
+ ]
+}

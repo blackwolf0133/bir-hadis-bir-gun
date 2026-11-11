@@ -1,0 +1,67 @@
+{
+ "id": "010",
+ "slug": "hayir_soyle",
+ "title": "Ya Hayır Söyle",
+ "seed": 9100,
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Bazen en büyük ibadet, söylemediğin o cümledir.",
+   "prompt": "a long empty dining table set for dinner in a warm room, plates and tea glasses, a single empty chair pulled back, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Akşam yemeği. Aile toplandı. Konu yine o eski meseleye geldi.",
+   "prompt": "a family dinner at evening, exactly four faceless figures around a table: ONE elderly bare-headed man, ONE woman in a headscarf, TWO bare-headed young men, warm lamp light, tense mood"
+  },
+  {
+   "text": "Ağzına kırıcı bir cevap geldi. Tam yerinde, tam da acıtacak gibi.",
+   "prompt": "ONE faceless bare-headed young man sitting at a dinner table with tense posture, others blurred in the background, dramatic lamp light"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Allah'a ve ahiret gününe iman eden, ya hayır söylesin ya da sussun.",
+   "prompt": "a quiet snowy village at night, warm windows glowing, gentle snowfall, no people",
+   "insan": false,
+   "yer": "Buhârî, Edeb 31 · Müslim, Îmân 74"
+  },
+  {
+   "text": "Sustun. Çayını yudumladın. Konuyu değiştirdin.",
+   "prompt": "close-up of a glass of Turkish tea on a saucer on a dinner table, steam rising, warm light, no people, no hands",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "O akşam kimse kalbini kırmadan kalktı sofradan.",
+   "prompt": "an empty dining table after dinner with neatly stacked plates, a bowl of fruit, a warm lamp, peaceful mood, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Susmak bazen kaybetmek değil, kazanmaktır.",
+   "prompt": "a calm sea at dawn with a single small fishing boat resting on still water, soft pink sky, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Sofrada sözünü tartan bir kardeşine gönder.",
+   "prompt": "two faceless bare-headed men in jackets sitting at a small tea house table outside at dusk, tea glasses between them, seen from the side, warm string lights",
+   "sicak": true
+  }
+ ],
+ "hisse": "Allah'a ve ahiret gününe iman eden, ya hayır söylesin ya da sussun.",
+ "kaynak": "Buhârî, Edeb 31 · Müslim, Îmân 74",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Söylemediğin o cümle 🤐\n\nSusmanın kazandırdığı bir an hatırlıyor musun?\n\nKaynak: Buhârî, Edeb 31 · Müslim, Îmân 74\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#sükut",
+  "#aile",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5437 (Sahih, muttefekun aleyh; Ebû Hüreyre)",
+  "https://www.islamveihsan.com/allaha-ve-ahiret-gunune-inanan-ya-hayir-soylesin-ya-da-sussun-hadisi.html (Buhârî, Edeb 31; Müslim, Îmân 74)"
+ ]
+}
