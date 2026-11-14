@@ -1,6 +1,6 @@
 # Bir Hadis Bir Gün (@birhadis.birgun)
 
-Her akşam 18:00'de, kaynağı belirtilmiş sahih bir hadisi (ya da ayeti) günlük hayattan bir sahneyle anlatan 45–55 sn'lik Reels.
+Her gün 07:00, 11:30 ve 17:30'da, kaynağı belirtilmiş sahih bir hadisi (ya da ayeti) günlük hayattan bir sahneyle anlatan 45–55 sn'lik Reels.
 Yüzsüz sinematik yapay zekâ çizimleri, Gemini **Iapetus** sesi, uhrevi fon müziği. Motor Kıssadan Hisse ile ortaktır
 (`engine/`); kanala özel görünüm `kanal/ayar.py` içindedir.
 
