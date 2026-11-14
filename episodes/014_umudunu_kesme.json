@@ -1,0 +1,68 @@
+{
+ "id": "014",
+ "slug": "umudunu_kesme",
+ "title": "Umudunu Kesme",
+ "seed": 9144,
+ "kanca_yazi": "“Benim günahım affedilmez” mi diyorsun?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Benim günahım affedilmez, mi diyorsun? Kur'an'da gerçekte ne yazıyor, dinle.",
+   "prompt": "ONE single faceless bare-headed young man sitting alone on the edge of a bed in a dark room at night, head lowered, a faint streetlight through the window, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Yıllarca uzak kaldın. Şimdi dönmek istiyorsun ama utanıyorsun.",
+   "prompt": "a long empty road at night leading back toward a small town with warm lights in the distance, no people, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "insan": false
+  },
+  {
+   "text": "İçinden bir ses: Artık çok geç, diyor.",
+   "prompt": "a wall clock in a dark empty room, moonlight falling across the floor, no people",
+   "insan": false
+  },
+  {
+   "text": "Allah, Zümer Suresi'nde şöyle buyuruyor: Ey kendilerine kötülük edip aşırı giden kullarım! Allah'ın rahmetinden umudunuzu kesmeyin. Doğrusu Allah günahların hepsini bağışlar.",
+   "prompt": "an open book on a wooden folding reading stand under a soft beam of light in a quiet dark room, no visible text, no people",
+   "insan": false,
+   "yer": "Zümer 39/53 (Diyanet meali)",
+   "sicak": true
+  },
+  {
+   "text": "Dikkat et: Hitap, en çok günah işleyenlere. Kapı, onlara da açık.",
+   "prompt": "a heavy wooden door slightly open with warm golden light pouring out into a dark courtyard, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu gece samimi bir tövbe et. Bir daha dönmemeye niyet et.",
+   "prompt": "ONE single faceless bare-headed young man kneeling on a prayer rug in a dim room lit by a single warm lamp, seen from behind, hands raised in prayer",
+   "sicak": true
+  },
+  {
+   "text": "Rahmet kapısını kimse senin yüzüne kapatamaz. Sen kapatmadıkça.",
+   "prompt": "first light of sunrise over old city rooftops, in the distance a small Ottoman-style mosque with a single dome topped by a golden crescent finial and one slender minaret, no crosses, birds flying, golden light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, kendini affedilmez sanan birine gönder.",
+   "prompt": "two faceless bare-headed men in jackets walking side by side on a quiet street at sunrise, seen from behind, soft golden light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "De ki: Ey kendilerine kötülük edip aşırı giden kullarım! Allah'ın rahmetinden umudunuzu kesmeyin. Doğrusu Allah günahların hepsini bağışlar. Çünkü O, bağışlayandır, merhametlidir.",
+ "kaynak": "Zümer 39/53",
+ "kart_baslik": "ÂYET-İ KERÎME",
+ "caption": "“Benim günahım affedilmez” deme 🤍\n\nKur'an, en çok günah işleyenlere bile umut kapısını açık bırakıyor. Bu ayeti en son ne zaman duydun?\n\nKaynak: Zümer 39/53 (Diyanet meali)\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#ayet",
+  "#kuran",
+  "#tövbe",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://qurano.com/tr/39-az-zumar/ayah-53/ (Diyanet İşleri meali: 'Ey kendilerine kötülük edip aşırı giden kullarım! Allah'ın rahmetinden umudunuzu kesmeyin. Doğrusu Allah günahların hepsini bağışlar. Çünkü O, bağışlayandır, merhametlidir.')",
+  "https://quran.com/tr/zumer/53 (Türkçe Diyanet meali, aynı ifade)"
+ ]
+}

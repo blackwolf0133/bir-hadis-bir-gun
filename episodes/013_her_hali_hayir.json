@@ -1,0 +1,70 @@
+{
+ "id": "013",
+ "slug": "her_hali_hayir",
+ "title": "Her Hâli Hayır",
+ "seed": 9133,
+ "kanca_yazi": "Kaybetmeyen tek insan kim?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Hiç kaybetmeyen bir insan var. Kazansa da kazanıyor, kaybetse de.",
+   "prompt": "a single balance scale standing on a wooden table in soft window light, both pans level, dust in the air, no people",
+   "insan": false
+  },
+  {
+   "text": "Sabah müjdeli haber geldi: Kabul edildin. Sevinçten ellerin titriyor.",
+   "prompt": "ONE single faceless young woman in a headscarf holding a phone with both hands in a sunlit room, joyful posture, morning light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Akşam başka bir haber: Araba yolda kaldı, masraf çıktı.",
+   "prompt": "a small car stopped at the side of a rainy road at dusk with its hazard lights on, wet asphalt, no people, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Müminin durumu ne hoştur! Her işi hayırdır. Sevinirse şükreder, bu ona hayırdır. Sıkıntı gelirse sabreder, bu da ona hayırdır.",
+   "prompt": "the same sky split between bright sunlight on one side and soft rain on the other, a rainbow forming over green hills, no people",
+   "insan": false,
+   "yer": "Müslim, Zühd 64",
+   "sicak": true
+  },
+  {
+   "text": "Sevinçte unutma: Elhamdülillah.",
+   "prompt": "a breakfast table by an open window with a glass of tea and fresh bread in golden morning light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Sıkıntıda dağılma: Bu da geçer, Rabbim yanımda.",
+   "prompt": "a small lantern glowing steadily on a windowsill during a rainy night, raindrops on the glass, warm light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "İki hâl de seni Allah'a yaklaştırıyorsa, kaybın yok.",
+   "prompt": "a calm road winding toward a sunrise after rain, puddles reflecting the light, no people, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu bugün hem sevinen hem üzülen bir dostuna gönder.",
+   "prompt": "two faceless women in headscarves walking side by side on a quiet path at sunset, seen from behind, autumn trees, warm light",
+   "sicak": true
+  }
+ ],
+ "hisse": "Müminin durumu ne hoştur! Her işi kendisi için hayırlıdır. Sevindiren bir şey olursa şükreder, bu onun için hayır olur. Başına bir sıkıntı gelirse sabreder, bu da onun için hayır olur.",
+ "kaynak": "Müslim, Zühd 64",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Kazansa da kazanan, kaybetse de kazanan ☀️🌧️\n\nBugün şükrettiğin bir şey, sabrettiğin bir şey ne?\n\nKaynak: Müslim, Zühd 64\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#şükür",
+  "#sabır",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/3298 (Sahih; Suheyb; Müslim 2999)",
+  "https://islamiccenter.org/unit-eight-patience (Sahih Muslim, Zuhd 64; Suhayb ibn Sinan)"
+ ]
+}

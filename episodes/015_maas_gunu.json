@@ -1,0 +1,67 @@
+{
+ "id": "015",
+ "slug": "maas_gunu",
+ "title": "Maaş Günü",
+ "seed": 9155,
+ "kanca_yazi": "Market fişin sadaka olabilir mi?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Market fişin, bir sadaka makbuzu olabilir mi?",
+   "prompt": "a long supermarket receipt lying next to a full grocery bag on a kitchen counter, warm evening light, no people, no readable text",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Maaş günü. Kira, faturalar, okul masrafı. Para gelir gelmez gidiyor.",
+   "prompt": "a kitchen table at night with stacked bills, a calculator and an open wallet under a single lamp, no people, no readable text",
+   "insan": false
+  },
+  {
+   "text": "Hiç kendine harcamadın gibi hissediyorsun.",
+   "prompt": "ONE single faceless bare-headed man in a work jacket sitting alone at a kitchen table late at night, rubbing his neck, a single lamp"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Bir kimse Allah'ın rızasını umarak ailesinin geçimini sağlarsa, harcadıkları onun için birer sadaka olur.",
+   "prompt": "a warm family kitchen at dusk with a pot on the stove, fresh bread and fruit on the table, steam rising, no people",
+   "insan": false,
+   "yer": "Buhârî, Îmân 41 · Müslim, Zekât 49",
+   "sicak": true
+  },
+  {
+   "text": "Çocuğunun ayakkabısı, sofradaki ekmek, annenin ilacı. Niyetle, hepsi sadaka.",
+   "prompt": "a small pair of new children's shoes next to a loaf of bread and a medicine box on a wooden table in soft morning light, no people, no readable text",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Cüzdanı açarken içinden söyle: Allah'ım, rızan için.",
+   "prompt": "close-up of a pair of hands opening a worn leather wallet at a bakery counter, warm morning light, no faces"
+  },
+  {
+   "text": "Aynı para, aynı masraf. Ama artık defterinde sevap olarak yazılıyor.",
+   "prompt": "a family dinner table at evening seen from a distance, exactly three faceless figures: ONE bare-headed man, ONE woman in a headscarf, ONE small bare-headed boy, warm lamp light",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, ailesi için didinen bir babaya gönder.",
+   "prompt": "ONE single faceless bare-headed man walking home at dusk carrying grocery bags along a quiet street, warm windows glowing, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Bir kimse Allah'ın rızasını umarak ailesinin geçimini sağlarsa, harcadıkları onun için birer sadaka olur.",
+ "kaynak": "Buhârî, Îmân 41 · Müslim, Zekât 49",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Market fişin bir sadaka makbuzu 🧾\n\nAilene yaptığın harcamaya hangi niyetle bakıyorsun?\n\nKaynak: Buhârî, Îmân 41 · Müslim, Zekât 49\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#aile",
+  "#sadaka",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/6460 (Sahih, muttefekun aleyh; Ebû Mes'ûd; Buhârî 55)",
+  "https://www.islamveihsan.com/aileye-harcanan-para-sadakadir-hadisi.html (Buhârî, Îmân 41, Megâzî 12, Nefekât 1; Müslim, Zekât 49; Riyâzü's-Sâlihîn)"
+ ]
+}

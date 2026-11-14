@@ -1,0 +1,67 @@
+{
+ "id": "012",
+ "slug": "komsu_hakki",
+ "title": "Komşu Hakkı",
+ "seed": 9122,
+ "kanca_yazi": "Karşı komşunun adını biliyor musun?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Yıllardır aynı apartmandasın. Karşı komşunun adını biliyor musun?",
+   "prompt": "a quiet apartment building hallway at evening with two facing wooden doors, a doormat and a pair of shoes outside one door, warm light, no people",
+   "insan": false
+  },
+  {
+   "text": "Asansörde karşılaşıyorsunuz. Bir baş selamı, sonra telefona bakış.",
+   "prompt": "two faceless bare-headed men in jackets standing apart in a small elevator, one looking at his phone, cold light, awkward silence"
+  },
+  {
+   "text": "Oysa bir gece kapı çalınsa, ilk yetişecek olan o.",
+   "prompt": "a dark apartment building seen from outside at night with only two neighbouring windows lit, warm glow, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Cebrâil bana komşuya iyilik etmeyi tavsiye edip durdu. Hatta komşuyu komşuya mirasçı kılacak sandım.",
+   "prompt": "a calm night sky over quiet rooftops with soft moonlight on two neighbouring balconies with potted plants, no people, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "insan": false,
+   "yer": "Buhârî, Edeb 28 · Müslim, Birr 140"
+  },
+  {
+   "text": "Mirasçı sanılacak kadar yakın. Bu kadar önemli komşu.",
+   "prompt": "two neighbouring balconies side by side at sunset, plants reaching across the gap, warm golden light, no people, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu akşam bir tabak yemek götür. Ya da sadece kapıyı çal, hâlini sor.",
+   "prompt": "ONE single faceless woman in a headscarf holding a covered plate of food, standing in front of a neighbour's wooden door in a warm apartment hallway",
+   "sicak": true
+  },
+  {
+   "text": "Bir tabak gider, bir dostluk döner.",
+   "prompt": "a returned plate with a few pieces of fruit on it resting on a kitchen counter in warm evening light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, kapısını hep açık tutan komşuna gönder.",
+   "prompt": "two faceless women in headscarves chatting at an open apartment door in a warm hallway, tea glasses in hand, seen from the side",
+   "sicak": true
+  }
+ ],
+ "hisse": "Cebrâil bana komşuya iyilik etmeyi tavsiye edip durdu. Hatta komşuyu komşuya mirasçı kılacak sandım.",
+ "kaynak": "Buhârî, Edeb 28 · Müslim, Birr 140",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Komşun seni ne kadar tanıyor? 🏠\n\nBu hafta komşuna götürebileceğin küçük bir iyilik ne olabilir?\n\nKaynak: Buhârî, Edeb 28 · Müslim, Birr 140\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#komşu",
+  "#iyilik",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/4965 (Sahih, muttefekun aleyh; İbn Ömer; Buhârî 6014)",
+  "https://www.islamveihsan.com/komsuyu-komsuya-varis-kilacak-sandim-hadisi.html (Buhârî, Edeb 28; Müslim, Birr 140-141; İbn Ömer ve Âişe; Riyâzü's-Sâlihîn)"
+ ]
+}

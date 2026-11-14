@@ -1,0 +1,67 @@
+{
+ "id": "011",
+ "slug": "batan_diken",
+ "title": "Batan Diken",
+ "seed": 9111,
+ "kanca_yazi": "Hastane gecelerin boşa mı geçiyor?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Hasta yatağında geçen o uzun gecelerin hiçbiri boşa gitmiyor.",
+   "prompt": "a quiet hospital room at night, an empty bed with white sheets under a dim lamp, a glass of water and folded blanket on the side table, rain on the window, no people",
+   "insan": false
+  },
+  {
+   "text": "Ateşin düşmüyor. Gece yarısı, hastane koridorunda sıra bekliyorsun.",
+   "prompt": "ONE single faceless bare-headed man in a coat sitting alone on a plastic chair in a long empty hospital corridor at night, cold fluorescent light, tired posture"
+  },
+  {
+   "text": "İçinden geçiyor: Neden ben? Bu yorgunluk ne işe yarıyor?",
+   "prompt": "ONE single faceless bare-headed man standing alone by a hospital window at night looking out, city lights blurred, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Müslümanın başına gelen yorgunluk, hastalık, keder, hatta ayağına batan diken bile; Allah onu hatalarının bağışlanmasına vesile kılar.",
+   "prompt": "a single small thorny rose branch lying on a wooden windowsill in soft morning light, a drop of dew on a leaf, no people",
+   "insan": false,
+   "yer": "Buhârî, Merdâ 1 · Müslim, Birr 49",
+   "sicak": true
+  },
+  {
+   "text": "Yani hiçbir acın, Allah katında karşılıksız kalmıyor.",
+   "prompt": "a gentle sunrise over a calm valley after a storm, clouds parting, warm light spreading over wet fields, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Sabret, şifa için dua et, tedavini aksatma.",
+   "prompt": "a bedside table at sunrise with a glass of water, a small medicine box and an open window with white curtains moving, no people, no readable text",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Ve sabah olunca bil ki, o gece seni temizledi.",
+   "prompt": "ONE single faceless bare-headed man walking out of a hospital entrance at sunrise with a light step, golden light, trees, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, şu an hastanede nöbet tutan birine gönder.",
+   "prompt": "two faceless women in headscarves sitting side by side on a hospital bench at dawn, one resting her hand on the other's shoulder, seen from the side, soft warm light",
+   "sicak": true
+  }
+ ],
+ "hisse": "Yorgunluk, hastalık, tasa, keder, sıkıntı ve gamdan, ayağına batan dikene varıncaya kadar Müslümanın başına gelen her şeyi Allah, onun hatalarını bağışlamaya vesile kılar.",
+ "kaynak": "Buhârî, Merdâ 1 · Müslim, Birr 49",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Ayağına batan diken bile boşa değil 🌹\n\nŞu an bir hastalıkla ya da bir sıkıntıyla mı uğraşıyorsun? Bu hadis senin için.\n\nKaynak: Buhârî, Merdâ 1 · Müslim, Birr 49\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#sabır",
+  "#şifa",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/3701 (Sahih, muttefekun aleyh; Ebû Saîd el-Hudrî ve Ebû Hüreyre; Buhârî 5641)",
+  "https://www.islamveihsan.com/yorgunluk-surekli-hastalik-tasa-gibi-sikintilari-bagislanmaya-vesiledir-hadisi.html (Buhârî, Merdâ 1, 3; Müslim, Birr 49; Riyâzü's-Sâlihîn)"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "016",
+ "slug": "uc_amel",
+ "title": "Kapanmayan Defter",
+ "seed": 9166,
+ "kanca_yazi": "Öldükten sonra da sevap kazanabilir misin?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Öldükten sonra da sevap kazanmaya devam edebilir misin? Evet. Üç yolu var.",
+   "prompt": "an old wooden desk by a window at dusk with a pair of reading glasses and a folded prayer beads string, an empty chair, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Dedenin cenazesinden döndün. Evde onun sandalyesi boş.",
+   "prompt": "an empty armchair with a knitted blanket in a quiet living room, soft afternoon light through lace curtains, no people",
+   "insan": false
+  },
+  {
+   "text": "Bahçede diktiği dut ağacı, hâlâ meyve veriyor.",
+   "prompt": "an old mulberry tree full of fruit in a small garden behind a village house, warm late afternoon light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: İnsan ölünce, üç ameli dışında bütün amellerinin sevabı kesilir: Sadaka-i câriye, faydalanılan ilim ve kendisine dua eden hayırlı evlat.",
+   "prompt": "a quiet village cemetery on a green hillside at sunset with simple plain headstones under cypress trees, no writing, soft golden light, no people",
+   "insan": false,
+   "yer": "Müslim, Vasiyyet 14",
+   "sicak": true
+  },
+  {
+   "text": "Yani onun defteri kapanmadı. Ve senin dualarınla doluyor.",
+   "prompt": "ONE single faceless bare-headed young man sitting under a mulberry tree in a garden at dusk, hands open in prayer, seen from the side",
+   "sicak": true
+  },
+  {
+   "text": "Sen de bugün bir fidan dik, birine bir şey öğret, bir çeşmeye ortak ol.",
+   "prompt": "close-up of hands planting a small sapling in fresh soil in morning light, a small watering can nearby, no faces",
+   "sicak": true
+  },
+  {
+   "text": "Ve sevdiklerin için dua etmeyi unutma.",
+   "prompt": "a peaceful dawn sky over rolling hills with a single tree, soft light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, sevdiği birini yeni kaybetmiş bir dostuna gönder.",
+   "prompt": "two faceless bare-headed men in coats sitting together on a bench under a tree in a quiet park at sunset, seen from behind, one with his hand on the other's shoulder",
+   "sicak": true
+  }
+ ],
+ "hisse": "İnsan ölünce, üç ameli dışında bütün amellerinin sevabı kesilir: Sadaka-i câriye, faydalanılan ilim ve kendisine dua eden hayırlı evlat.",
+ "kaynak": "Müslim, Vasiyyet 14",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Ölünce de kapanmayan defter 📖\n\nSenden sonra kalacak iyilik ne olsun istersin?\n\nKaynak: Müslim, Vasiyyet 14\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#ahiret",
+  "#dua",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/65566 (Sahih; Ebû Hüreyre; Müslim 1631)",
+  "https://www.islamveihsan.com/insan-olunce-uc-ameli-disinda-butun-amellerinin-sevabi-kesilir-hadisi.html (Müslim, Vasiyyet 14; Ebû Dâvûd, Vasâyâ 14; Tirmizî, Ahkâm 36; Riyâzü's-Sâlihîn)"
+ ]
+}

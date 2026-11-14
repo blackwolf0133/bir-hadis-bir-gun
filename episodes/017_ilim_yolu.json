@@ -1,0 +1,66 @@
+{
+ "id": "017",
+ "slug": "ilim_yolu",
+ "title": "Okul Yolu",
+ "seed": 9177,
+ "kanca_yazi": "Sabah servisi seni nereye götürüyor?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Her sabah bindiğin okul servisi, seni sandığından daha uzağa götürüyor.",
+   "prompt": "a school bus waiting at a misty street corner at early morning, headlights glowing, wet asphalt, no people, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "insan": false
+  },
+  {
+   "text": "Sınav haftası. Gece yarısı, masada açık kitaplar. Göz kapakların ağırlaşıyor.",
+   "prompt": "ONE single faceless young woman in a headscarf studying alone at a desk late at night, open books and notebooks, a single desk lamp, tired posture"
+  },
+  {
+   "text": "Soruyorsun: Bu kadar emek neye yarayacak?",
+   "prompt": "a desk at night covered with open textbooks, a pencil and a cup of tea gone cold, moonlight on the window, no people, no readable text",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Kim ilim tahsil etmek için bir yola girerse, Allah o kişiye cennetin yolunu kolaylaştırır.",
+   "prompt": "a long path through a green valley leading toward a bright horizon at sunrise, light rays through clouds, no people",
+   "insan": false,
+   "yer": "Müslim, Zikr 39",
+   "sicak": true
+  },
+  {
+   "text": "Okula giden her adım, aslında daha büyük bir yola açılıyor.",
+   "prompt": "a quiet tree-lined road in autumn at morning, golden leaves on the ground, soft sunlight, no people, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün derse niyet ederek başla: Allah'ım, faydalı ilim nasip et.",
+   "prompt": "ONE single faceless bare-headed young man opening a notebook at a classroom desk by a sunny window, morning light"
+  },
+  {
+   "text": "Öğrendiğini birine öğret. Yol ikiye katlanır.",
+   "prompt": "two faceless bare-headed teenage boys sitting at a library table sharing one book, one pointing at a page, warm afternoon light, no readable text",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, sınav stresi yaşayan bir öğrenciye gönder.",
+   "prompt": "exactly three faceless students walking toward a school gate in the morning, seen from behind with backpacks: ONE girl in a headscarf, TWO bare-headed boys, golden light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Kim ilim tahsil etmek için bir yola girerse, Allah o kişiye cennetin yolunu kolaylaştırır.",
+ "kaynak": "Müslim, Zikr 39",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Okul yolu, cennet yolu 🎒\n\nŞu an ne öğreniyorsun? Bugün hangi niyetle çalışacaksın?\n\nKaynak: Müslim, Zikr 39\n\nHer akşam bir hadis, bir gün. Takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#ilim",
+  "#öğrenci",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/4801 (Sahih; Ebû Hüreyre; Müslim 2699, uzun hadisin içinde)",
+  "https://www.islamveihsan.com/kim-ilim-tahsil-etmek-icin-bir-yola-girerse-allah-o-kisiye-cennetin-yolunu-kolaylastirir-hadisi.html (Müslim, Zikr 39; Riyâzü's-Sâlihîn)"
+ ]
+}
