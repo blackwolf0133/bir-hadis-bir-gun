@@ -1,4 +1,4 @@
-"""Bir Hadis Bir Gün (@birhadis.birgun) - günlük otomasyon (her akşam 20:30).
+"""Bir Hadis Bir Gün (@birhadis.birgun) - günlük otomasyon (her akşam 18:00).
 
 Akış: 'Hazırla' iş akışı sıradaki bölümü önceden üretir (hazir-<id> sürümüne koyar),
 'Günlük paylaşım' iş akışı hazır olan ilk bölümü Instagram'a yükler.

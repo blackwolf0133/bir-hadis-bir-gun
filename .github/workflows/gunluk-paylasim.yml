@@ -3,7 +3,7 @@ name: Günlük paylaşım
 
 on:
   schedule:
-    - cron: "22 17 * * *"    # 20:22 Türkiye (paylaşım ~20:30; yedek: Claude alarmı 20:26)
+    - cron: "50 14 * * *"    # 17:50 Türkiye (paylaşım ~18:00; yedek: Claude alarmı 17:55)
   workflow_dispatch:
     inputs:
       zorla:

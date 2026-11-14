@@ -1,6 +1,6 @@
 # Bir Hadis Bir Gün · senaryo formatı ve KURALLAR
 
-Kanal: **@birhadis.birgun** · her akşam **20:30** · ses **Gemini Iapetus** (tempo 0.95) · 45–55 sn dikey Reels.
+Kanal: **@birhadis.birgun** · her akşam **18:00** · ses **Gemini Iapetus** (tempo 0.95) · 45–55 sn dikey Reels.
 Görsel: yüzsüz, sinematik, stilize 3D çizim (FLUX.2-klein, `kanal/ayar.py`), uhrevi ney benzeri fon müziği, sonda kaynaklı hadis kartı.
 
 ## 1. Doğruluk kuralları (en önemlisi: tek hata kanalı bitirir)
