@@ -1,0 +1,67 @@
+{
+ "id": "023",
+ "slug": "yapmadigin_kotuluk",
+ "title": "Yapmadığın Kötülük",
+ "seed": 9243,
+ "kanca_yazi": "Yapmadığın bir şeye sevap yazılır mı?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Yapmadığın bir şey için sevap yazılabilir mi? Evet.",
+   "prompt": "an empty supermarket checkout counter at evening under soft lights, a small pile of coins on the counter, no people",
+   "insan": false
+  },
+  {
+   "text": "Markette kasiyer para üstünü fazla verdi. Fark etmedi bile.",
+   "prompt": "exactly two faceless figures at a supermarket checkout: ONE bare-headed male cashier handing change to ONE woman in a headscarf, seen from the side, evening light"
+  },
+  {
+   "text": "İçinden bir ses: Kimse bilmez, dedi. Elin cebine gitti.",
+   "prompt": "close-up of a hand holding folded banknotes above an open purse, dim moody light, no readable text"
+  },
+  {
+   "text": "Peygamber Efendimiz, Rabbinden haber vererek buyurdu: Kim bir kötülük yapmak ister de onu yapmazsa, Allah bunu kendi katında tam bir iyilik olarak yazar.",
+   "prompt": "soft golden light falling on an empty wooden table with a single folded note and a pen, quiet room, no readable text, no people",
+   "insan": false,
+   "yer": "Buhârî 6491 · Müslim 131",
+   "sicak": true
+  },
+  {
+   "text": "Durdun. Allah için vazgeçtin. Parayı geri verdin.",
+   "prompt": "ONE single faceless woman in a headscarf handing back banknotes across a supermarket counter, warm light",
+   "sicak": true
+  },
+  {
+   "text": "Yapmadığın o kötülük, defterine iyilik olarak yazıldı.",
+   "prompt": "an open blank notebook on a desk lit by warm morning sunlight, no readable text, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün içinden geçen bir kötülüğü, Allah için bırak.",
+   "prompt": "a calm lake at sunrise with mist rising, a single leaf floating, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, kötü düşünceleri yüzünden kendini suçlayan birine gönder.",
+   "prompt": "two faceless figures walking side by side along a seaside promenade at sunrise, seen from behind: ONE woman in a headscarf and ONE bare-headed elderly man, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Kim bir kötülük yapmak ister de onu yapmazsa, Allah bunu kendi katında tam bir iyilik olarak yazar.",
+ "kaynak": "Buhârî 6491 · Müslim 131",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Yapmadığın bir kötülük, iyilik olarak yazılır ✍️\n\nSen hangi kötülükten Allah için vazgeçtin? İçinden cevap ver.\n\nKaynak: Buhârî 6491 · Müslim 131\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#niyet",
+  "#tövbe",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/4322 (Sahih, muttefekun aleyh; İbn Abbâs, kudsî; Buhârî 6491)",
+  "https://hadeethenc.com/tr/browse/hadith/66533 (Sahih; Buhârî ve Müslim bu lafızlarla; Nevevî, Kırk Hadis 37)"
+ ]
+}

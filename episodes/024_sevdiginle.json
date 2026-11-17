@@ -1,0 +1,68 @@
+{
+ "id": "024",
+ "slug": "sevdiginle",
+ "title": "Sevdiğinle",
+ "seed": 9254,
+ "kanca_yazi": "“Kıyamet ne zaman?” Cevap bir soruydu",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Biri sordu: Kıyamet ne zaman? Peygamber Efendimiz cevap yerine bir soru sordu.",
+   "prompt": "a vast starry night sky over a silent desert with soft dunes, a faint glow on the horizon, no people",
+   "insan": false
+  },
+  {
+   "text": "Namazın eksik, orucun yarım. Kendini hazırlıksız hissediyorsun.",
+   "prompt": "ONE single faceless bare-headed young man sitting on a prayer rug in a dim room at night, head lowered, a single warm lamp, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Peki senin elinde ne var?",
+   "prompt": "an empty prayer rug by a window under moonlight, quiet room, no people",
+   "insan": false
+  },
+  {
+   "text": "Buyurdu: Onun için ne hazırladın? Adam dedi: Allah'ı ve Resûlünü sevmekten başka bir şey hazırlamadım. Buyurdu: Sen sevdiğinle berabersin.",
+   "prompt": "soft golden light falling through clouds over green hills at dawn, no people",
+   "insan": false,
+   "yer": "Buhârî, Edeb 96 · Müslim, Birr 161",
+   "sicak": true
+  },
+  {
+   "text": "Sevgi bir başlangıç. Seveni, sevdiğine benzemeye çeker.",
+   "prompt": "a narrow path through a flowering meadow leading toward warm sunrise light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün sevdiğin için küçük bir şey yap: Bir salavat, bir sünnet, bir iyilik.",
+   "prompt": "ONE single faceless bare-headed young man handing a bag of groceries to ONE elderly bare-headed neighbor at a doorway, warm light",
+   "sicak": true
+  },
+  {
+   "text": "Kiminle olmak istiyorsan, onu sev. Ona benzemeye çalış.",
+   "prompt": "first light of sunrise over old city rooftops, in the distance a small Ottoman-style mosque with a single dome topped by a golden crescent finial and one slender minaret, no crosses, birds flying, golden light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, ahirette de beraber olmak istediğin birine gönder.",
+   "prompt": "two faceless figures walking side by side on a quiet road at sunrise, seen from behind: ONE bare-headed man and ONE woman in a headscarf, golden light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Onun için ne hazırladın? — Allah'ı ve Resûlünü sevmekten başka bir şey hazırlamadım. — Sen sevdiğinle berabersin.",
+ "kaynak": "Buhârî, Edeb 96 · Müslim, Birr 161",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Kıyamet ne zaman? Asıl soru başka 🤍\n\nSen onun için ne hazırladın? Ahirette kiminle olmak istersin?\n\nKaynak: Buhârî, Edeb 96 · Müslim, Birr 161\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#ahiret",
+  "#sevgi",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/3087 (Sahih, muttefekun aleyh; Enes; Buhârî 3688: 'O halde sen, sevdiğinle berabersin.')",
+  "https://www.islamveihsan.com/sen-sevdiginle-beraber-olacaksin-hadisi.html (Enes; Buhârî, Edeb 96, nr. 6171; Müslim, Birr 161-164, nr. 2639)"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "028",
+ "slug": "bir_delik",
+ "title": "İkinci Kez Değil",
+ "seed": 9298,
+ "kanca_yazi": "Aynı mesaj ikinci kez geldi",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Geçen ay bir mesajla kandırıldın. Bugün aynı mesaj yine geldi.",
+   "prompt": "ONE single faceless elderly bare-headed man sitting at a kitchen table looking at a glowing phone, worried posture, evening light, no readable text"
+  },
+  {
+   "text": "Kazandınız, hemen tıklayın, diyor. Parmağın ekranda.",
+   "prompt": "close-up of a smartphone glowing on a kitchen table in a dim room, a finger hovering above the screen, no readable text"
+  },
+  {
+   "text": "Ya da hep aynı kişiye borç verip hep aynı sözü dinliyorsun.",
+   "prompt": "exactly two faceless bare-headed men at a small cafe table, one sliding an envelope across to the other, tense mood, dim light"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Mümin, bir delikten iki kere sokulmaz.",
+   "prompt": "a small dark hole between old stones in a garden wall, warm light around it, no animals, no people",
+   "insan": false,
+   "yer": "Buhârî, Edeb 83 · Müslim, Zühd 63",
+   "sicak": true
+  },
+  {
+   "text": "Yani mümin saf değil, uyanıktır. Bir kez yaşadığından ders alır.",
+   "prompt": "a lighthouse on a rocky shore at dusk casting a bright beam over the sea, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün telefonundaki şüpheli mesajları sil. Ailene de anlat.",
+   "prompt": "exactly two faceless figures at a living room table: ONE young woman in a headscarf showing a phone to ONE elderly bare-headed man, warm lamp light, no readable text",
+   "sicak": true
+  },
+  {
+   "text": "İyi niyetli ol, ama gözün açık olsun.",
+   "prompt": "an open front door with a sturdy lock and warm light inside a home at evening, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, telefon dolandırıcılarına karşı annene, babana gönder.",
+   "prompt": "exactly two faceless elderly figures sitting together on a sofa at evening, seen from behind: ONE bare-headed man and ONE woman in a headscarf, a phone on the table, warm light",
+   "sicak": true
+  }
+ ],
+ "hisse": "Mümin, bir delikten iki kere sokulmaz.",
+ "kaynak": "Buhârî, Edeb 83 · Müslim, Zühd 63",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Mümin saf değil, uyanıktır 👀\n\nSen hiç aynı tuzağa iki kez düştün mü?\n\nKaynak: Buhârî, Edeb 83 · Müslim, Zühd 63\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#dolandırıcılık",
+  "#uyanık",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/4928 (Sahih, muttefekun aleyh; Ebû Hüreyre: 'Mü'min aynı delikten iki defa sokulmaz, ısırılmaz.')",
+  "https://www.islamveihsan.com/mumin-bir-delikten-iki-kere-sokulmaz-hadisi.html (Buhârî, Edeb 83; Müslim, Zühd 63; Diyanet Hadislerle İslam)"
+ ]
+}

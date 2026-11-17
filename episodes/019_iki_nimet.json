@@ -1,0 +1,69 @@
+{
+ "id": "019",
+ "slug": "iki_nimet",
+ "title": "İki Nimet",
+ "seed": 9199,
+ "kanca_yazi": "“Sadece beş dakika” demiştin…",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Sadece beş dakika, demiştin. Başını kaldırdığında üç saat geçmişti.",
+   "prompt": "ONE single faceless bare-headed young man lying on a sofa in a dark living room at night, lit only by the cold glow of a phone in his hands, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Kaydır, kaydır, kaydır. Ne izlediğini bile hatırlamıyorsun.",
+   "prompt": "a smartphone glowing on a crumpled blanket in a dark room, screen showing blurred colorful shapes, no readable text, no people",
+   "insan": false
+  },
+  {
+   "text": "Ertesi gün aynı cümle: Hiç vaktim yok.",
+   "prompt": "ONE single faceless woman in a headscarf hurrying in a kitchen in the morning, putting on her coat, a wall clock above her, cool light"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: İki nimet vardır ki, insanların pek çoğu bunların kıymetini bilmeyerek aldanmaktadır: Sağlık ve boş vakit.",
+   "prompt": "an hourglass on a wooden table in a beam of morning sunlight, sand falling, dust glowing, no people",
+   "insan": false,
+   "yer": "Buhârî, Rikâk 1",
+   "sicak": true
+  },
+  {
+   "text": "Bugün sağlıklıysan ve bir saatin boşsa, elinde iki hazine var.",
+   "prompt": "an open window at morning with a glass of tea and an empty chair, a green plant on the sill, soft sunlight, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "O saatin yarısını bir yürüyüşe, anneni aramaya ya da bir kitaba ver.",
+   "prompt": "ONE single faceless bare-headed young man walking alone through a green park path in the morning, seen from behind, golden light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Ekran bekler. Vakit beklemez.",
+   "prompt": "a smartphone placed face down on a table next to an open book and a cup of tea, warm sunlight, no readable text, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, gece ekrandan uyuyamayan birine gönder.",
+   "prompt": "a quiet bedroom at dawn with curtains half open and a phone charging on the nightstand, screen dark, peaceful mood, no people",
+   "insan": false,
+   "sicak": true
+  }
+ ],
+ "hisse": "İki nimet vardır ki, insanların pek çoğu bunların kıymetini bilmeyerek aldanmaktadır: Sağlık ve boş vakit.",
+ "kaynak": "Buhârî, Rikâk 1",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Beş dakika, üç saat oldu 📱\n\nBugün boş vaktinin bir saatini neye vereceksin?\n\nKaynak: Buhârî, Rikâk 1 (Buhârî 6412)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#zaman",
+  "#sağlık",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5449 (Sahih; İbn Abbâs; Buhârî 6412: 'İki nimet vardır ki, insanların pek çoğu bunların kıymetini bilmeyerek aldanmaktadır: Sağlık ve boş vakit.')",
+  "https://www.islamveihsan.com/iki-nimet-vardir-ki-insanlarin-cogu-bu-nimetleri-kullanmakta-aldanmistir-hadisi.html (Buhârî, Rikâk 1)",
+  "https://1000kitap.com/buhari-rikak-1--5470847 (Buhârî, Rikâk 1)"
+ ]
+}

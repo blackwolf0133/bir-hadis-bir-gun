@@ -1,0 +1,69 @@
+{
+ "id": "021",
+ "slug": "zorlukla_beraber",
+ "title": "Zorlukla Beraber",
+ "seed": 9221,
+ "kanca_yazi": "Bu ayeti yıllardır eksik biliyor olabilirsin",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Zorluktan sonra kolaylık gelir, deriz. Ama ayette sonra demiyor.",
+   "prompt": "dark storm clouds over a rough sea with a single narrow beam of sunlight breaking through, no people",
+   "insan": false
+  },
+  {
+   "text": "İşten çıkarıldığın gün. Kira, faturalar, sessiz bir ev.",
+   "prompt": "ONE single faceless bare-headed man sitting alone in a parked car at dusk, a cardboard box of office belongings on the passenger seat, rain on the windshield, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Kolaylığın aylar sonra geleceğini sanıyorsun.",
+   "prompt": "an empty waiting room bench under a cold fluorescent light at night, a single window, no people",
+   "insan": false
+  },
+  {
+   "text": "Allah İnşirah Suresi'nde buyuruyor: Elbette güçlükle beraber şüphesiz bir kolaylık vardır. Gerçekten, güçlükle beraber bir kolaylık vardır.",
+   "prompt": "an open book on a wooden folding reading stand under a soft beam of light in a quiet dark room, no visible text, no people",
+   "insan": false,
+   "yer": "İnşirah 94/5-6 (Diyanet meali)",
+   "sicak": true
+  },
+  {
+   "text": "Beraber. Kolaylık, zorluğun tam içinde. Ve ayet bunu iki kez söylüyor.",
+   "prompt": "a small green sprout breaking through cracked dry earth in soft morning light, close-up, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu zor günde bile seni ayakta tutan bir şey var. Onu bul, şükret.",
+   "prompt": "exactly two faceless figures at a window in morning light: ONE woman in a headscarf hugging ONE small child, seen from behind, warm atmosphere, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Bir dost, bir sağlık, açık bir kapı. Kolaylık çoğu zaman yanı başında.",
+   "prompt": "a winding mountain path with sunlight breaking through clouds and a green valley opening ahead, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, şu an zor bir dönemden geçen birine gönder.",
+   "prompt": "two faceless bare-headed men sitting side by side on a park bench at sunrise, one with his hand on the other's shoulder, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Elbette güçlükle beraber şüphesiz bir kolaylık vardır. Gerçekten, güçlükle beraber bir kolaylık vardır.",
+ "kaynak": "İnşirah 94/5-6",
+ "kart_baslik": "ÂYET-İ KERÎME",
+ "caption": "“Sonra” değil, “beraber” 🌱\n\nŞu an yaşadığın zorluğun içinde hangi kolaylığı görebiliyorsun?\n\nKaynak: İnşirah 94/5-6 (Diyanet meali)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#ayet",
+  "#kuran",
+  "#sabır",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://qurano.com/tr/94-el-inshirah/ayah-5/ (Diyanet İşleri meali 94/5: 'Elbette güçlükle beraber şüphesiz bir kolaylık vardır.')",
+  "https://qurano.com/tr/94-el-inshirah/ (sure sayfası, aynı meal; 94/6: 'Gerçekten, güçlükle beraber bir kolaylık vardır.')",
+  "https://sorularlaislamiyet.com/insirah-suresi-5-6-7-8-ayetlerin-asli-meali-ve-tefsiri-nedir (Kur'an Yolu Tefsiri, Diyanet: 'zorlukla beraber', iki kez tekrar)"
+ ]
+}

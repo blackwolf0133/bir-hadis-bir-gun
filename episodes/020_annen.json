@@ -1,0 +1,67 @@
+{
+ "id": "020",
+ "slug": "annen",
+ "title": "Üç Kez Annen",
+ "seed": 9210,
+ "kanca_yazi": "Aynı soruya üç kez aynı cevap",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Bir adam bir soru sordu. Peygamber Efendimiz aynı cevabı üç kez verdi.",
+   "prompt": "an old wooden door of a modest stone house at dawn, a single lantern beside it, soft light, no people",
+   "insan": false
+  },
+  {
+   "text": "Annen aradı. Telefona baktın, sessize aldın. Sonra ararım, dedin.",
+   "prompt": "ONE single faceless bare-headed young man at an office desk, a ringing smartphone in front of him, he turns it face down, computer screen glow, no readable text"
+  },
+  {
+   "text": "Akşam oldu, aramadın. Ertesi gün de.",
+   "prompt": "a phone lying on a nightstand in a dark bedroom, faint glow, a clock nearby, no readable text, no people",
+   "insan": false
+  },
+  {
+   "text": "Adam sordu: İyi davranmama en layık kim? Buyurdu: Annen. Sonra kim? Annen. Sonra kim? Annen. Sonra kim? Baban.",
+   "prompt": "two tea glasses on a kitchen table beside a knitted shawl and a plate of homemade pastries, warm window light, no people",
+   "insan": false,
+   "yer": "Buhârî, Edeb 2 · Müslim, Birr 1",
+   "sicak": true
+  },
+  {
+   "text": "Üç kez annen. Çünkü onun emeği, çoğu zaman görünmeyen emek.",
+   "prompt": "ONE single faceless elderly woman in a headscarf cooking alone at a small kitchen stove, seen from behind, warm evening light",
+   "sicak": true
+  },
+  {
+   "text": "Bugün o telefonu sen aç. Bir şey istemeden, sadece sesini duymak için.",
+   "prompt": "ONE single faceless bare-headed young man on a balcony at sunset holding a phone to his ear, relaxed posture, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Baban da bekliyor. Bir mesaj, bir dua, bir ziyaret.",
+   "prompt": "ONE single faceless elderly bare-headed man sitting by a window in an armchair, a tea glass beside him, golden afternoon light, no readable text",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, annesini aramayı hep erteleyen birine gönder.",
+   "prompt": "a warm family living room at evening with an empty armchair, a folded blanket and a framed picture turned away from view, soft lamp light, no people",
+   "insan": false,
+   "sicak": true
+  }
+ ],
+ "hisse": "Ey Allah'ın Resûlü! İyi davranmama en layık kimdir? — Annen. — Sonra kim? — Annen. — Sonra kim? — Annen. — Sonra kim? — Baban.",
+ "kaynak": "Buhârî, Edeb 2 · Müslim, Birr 1",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Üç kez annen, sonra baban 🤍\n\nAnneni en son ne zaman sadece sesini duymak için aradın?\n\nKaynak: Buhârî, Edeb 2 · Müslim, Birr 1\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#anne",
+  "#aile",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/4182 (Sahih, muttefekun aleyh; Ebû Hüreyre: 'Annen' üç kez, sonra 'Baban')",
+  "https://www.islamveihsan.com/annen-annen-annen-sonra-baban-hadisi.html (Buhârî, Edeb 2; Müslim, Birr 1; Riyâzü's-Sâlihîn)"
+ ]
+}

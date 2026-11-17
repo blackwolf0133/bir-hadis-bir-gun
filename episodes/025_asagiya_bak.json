@@ -1,0 +1,68 @@
+{
+ "id": "025",
+ "slug": "asagiya_bak",
+ "title": "Aşağıya Bak",
+ "seed": 9265,
+ "kanca_yazi": "Herkesin hayatı seninkinden güzel mi?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Herkesin hayatı seninkinden daha güzel görünüyor, değil mi?",
+   "prompt": "ONE single faceless woman in a headscarf sitting on a city bus at evening, scrolling a glowing phone, window reflections, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Biri tatilde, biri yeni arabasında, biri yeni evinde.",
+   "prompt": "a smartphone screen glowing with blurred colorful vacation photos in a dark room, no readable text, no people",
+   "insan": false
+  },
+  {
+   "text": "Ekranı kapatıyorsun. Kendi evin birden küçülüyor.",
+   "prompt": "a modest small apartment living room at evening with a simple sofa and a single lamp, slightly gloomy, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Hayat şartları sizden daha aşağı olanlara bakın, sizden daha iyi olanlara bakmayın. Bu, Allah'ın size verdiği nimetleri küçük görmemeniz için daha uygundur.",
+   "prompt": "a warm beam of light falling on a simple wooden dinner table with bread and a bowl of soup, no people",
+   "insan": false,
+   "yer": "Müslim, Zühd 9",
+   "sicak": true
+  },
+  {
+   "text": "Bu akşam sıcak bir yemeğin, başını sokacak bir evin var.",
+   "prompt": "a small family dinner at home: exactly three faceless figures around a simple table, ONE bare-headed man, ONE woman in a headscarf, ONE small boy, warm lamp light",
+   "sicak": true
+  },
+  {
+   "text": "Bugün sahip olduğun üç nimeti say. Sonra de ki: Elhamdülillah.",
+   "prompt": "close-up of two open palms raised in gratitude above a table, warm lamp light",
+   "sicak": true
+  },
+  {
+   "text": "Kıyas bitince, şükür başlıyor.",
+   "prompt": "a window at sunset with golden light falling on a houseplant and a tea glass, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, kendini hep başkalarıyla kıyaslayan birine gönder.",
+   "prompt": "two faceless young women in headscarves sitting on a bench by the sea at sunset, seen from behind, calm mood",
+   "sicak": true
+  }
+ ],
+ "hisse": "Hayat şartları sizden daha aşağı olanlara bakın, sizden daha iyi olanlara bakmayın. Bu, Allah'ın size verdiği nimetleri küçük görmemeniz için daha uygundur.",
+ "kaynak": "Müslim, Zühd 9",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Kıyas bitince şükür başlar 🤲\n\nBugün sahip olduğun üç nimeti yorumlara yazar mısın?\n\nKaynak: Müslim, Zühd 9 (Müslim 2963)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#şükür",
+  "#kanaat",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5341 (Sahih; Ebû Hüreyre; Müslim 2963: 'Hayat şartları (dünyalık) bakımından sizden daha aşağıda olanlara bakın; ...' Allah'ın nimetini küçümsememeniz için)",
+  "https://www.islamveihsan.com/sizden-asagida-olanlara-bakin-hadisi.html (Müslim, Zühd 9; Buhârî, Rikâk 30 benzer lafız; Riyâzü's-Sâlihîn)",
+  "https://sorularlaislamiyet.com/hayat-sartlari-sizinkinden-daha-asagi-olanlara-bakiniz-diye-bir-hadis-var-mi (Müslim, Zühd 9)"
+ ]
+}

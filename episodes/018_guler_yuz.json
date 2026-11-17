@@ -1,0 +1,66 @@
+{
+ "id": "018",
+ "slug": "guler_yuz",
+ "title": "Güler Yüz",
+ "seed": 9188,
+ "kanca_yazi": "Bugün kimseye bir şey veremez misin?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Cebinde para yok, vaktin yok, enerjin yok. Yine de bugün bir iyilik yapabilirsin.",
+   "prompt": "ONE single faceless bare-headed young man in a jacket stepping out of an apartment building door at early morning, tired posture, cool blue light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Sabah asansörde komşunla karşılaştın. Telefona mı bakacaksın, ona mı?",
+   "prompt": "exactly two faceless figures standing inside a small apartment elevator in the morning: ONE bare-headed young man looking down at his phone, ONE elderly bare-headed man in a coat beside him, soft light"
+  },
+  {
+   "text": "Kafan dolu, yüzün asık. Güne fark etmeden öyle başlıyorsun.",
+   "prompt": "a cup of coffee on a windowsill on a grey rainy morning, raindrops on the glass, muted colors, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Din kardeşini güler yüzle karşılamak bile olsa, hiçbir iyiliği küçümseme.",
+   "prompt": "warm sunrise light pouring through a tall window into a quiet stairwell, dust glowing in the light, no people",
+   "insan": false,
+   "yer": "Müslim, Birr 144",
+   "sicak": true
+  },
+  {
+   "text": "Bir selam, sıcak bir söz. Senin için küçük, onun günü için büyük.",
+   "prompt": "exactly two faceless bare-headed men greeting each other warmly with a handshake at an apartment doorway in morning sunlight, friendly open posture",
+   "sicak": true
+  },
+  {
+   "text": "Bugün ilk karşılaştığın üç kişiye içten bir selam ver.",
+   "prompt": "a small neighborhood bakery at morning: ONE faceless bare-headed baker behind the counter handing a bag of fresh bread to ONE faceless woman in a headscarf, warm golden light",
+   "sicak": true
+  },
+  {
+   "text": "Küçük görme. Bir gülümseme de iyiliktir.",
+   "prompt": "a street corner at sunrise with a simit bread cart and a tea glass on a small table, golden light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, sabahları herkesi gülümseten o arkadaşına gönder.",
+   "prompt": "two faceless bare-headed young men in jackets walking side by side on a sunny morning street, seen from behind, relaxed friendly posture, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Din kardeşini güler yüzle karşılamak bile olsa, hiçbir iyiliği küçümseme.",
+ "kaynak": "Müslim, Birr 144",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Parasız ama çok kıymetli bir iyilik 🙂\n\nBugün ilk selamı kime vereceksin? Yorumlara yaz.\n\nKaynak: Müslim, Birr 144 (Müslim 2626)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#güleryüz",
+  "#iyilik",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5348 (Sahih; Ebû Zer; Müslim 2626: 'Din kardeşini güler yüzle karşılaman gibi bir iyiliği (yapmayı bile) sakın küçük görme!')",
+  "https://www.islamveihsan.com/din-kardesini-guler-yuzle-karsilamaktan-ibaret-bile-olsa-hicbir-iyiligi-kucumseme-hadisi.html (Müslim, Birr 144; Riyâzü's-Sâlihîn: 'Din kardeşini güler yüzle karşılamaktan ibaret bile olsa, hiçbir iyiliği küçümseme.')"
+ ]
+}

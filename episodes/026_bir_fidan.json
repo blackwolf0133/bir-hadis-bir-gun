@@ -1,0 +1,68 @@
+{
+ "id": "026",
+ "slug": "bir_fidan",
+ "title": "Bir Fidan",
+ "seed": 9276,
+ "kanca_yazi": "Bir serçenin yediği, senin sadakan olabilir mi?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Bir serçenin yediği bir lokma, senin sadakan olabilir mi?",
+   "prompt": "a small sparrow on a branch of a fruit tree pecking at a ripe fruit, morning light, close-up, no people",
+   "insan": false
+  },
+  {
+   "text": "Balkondaki saksıya bir fide diktin. Oğlun sordu: Bu ne zaman büyüyecek?",
+   "prompt": "exactly two faceless figures on a sunny apartment balcony: ONE bare-headed man and ONE small boy planting a seedling in a clay pot together, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Bahçenin köşesine de küçük bir dut fidanı.",
+   "prompt": "a small newly planted mulberry sapling in dark garden soil with a wooden stake, morning dew, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Bir müslüman bir ağaç diker veya ekin eker de ondan bir kuş, bir insan ya da bir hayvan yerse, bu onun için bir sadaka olur.",
+   "prompt": "a sunlit orchard with fruit trees, birds flying between branches, golden light, no people",
+   "insan": false,
+   "yer": "Buhârî, Hars 1 · Müslim, Müsâkât 12",
+   "sicak": true
+  },
+  {
+   "text": "Sen farkında bile olmadan bir kuş, bir kedi, bir yolcu doyuyor.",
+   "prompt": "a grown mulberry tree by a quiet street with ripe fruits, a cat resting in its shade, birds on the branches, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu hafta bir fidan dik. Saksı da olur, okul bahçesi de.",
+   "prompt": "exactly two faceless figures planting a sapling in a school garden: ONE woman in a headscarf and ONE little girl with a small watering can, sunny day",
+   "sicak": true
+  },
+  {
+   "text": "Ağaç büyür, gölgesi uzar.",
+   "prompt": "a large old tree casting a wide shade over a green meadow on a sunny afternoon, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, bahçeyle uğraşmayı seven birine gönder.",
+   "prompt": "ONE single faceless elderly bare-headed man watering plants in a small garden at golden hour, seen from behind",
+   "sicak": true
+  }
+ ],
+ "hisse": "Bir müslüman bir ağaç diker veya ekin eker de ondan bir kuş, bir insan ya da bir hayvan yerse, bu onun için bir sadaka olur.",
+ "kaynak": "Buhârî, Hars 1 · Müslim, Müsâkât 12",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Bir kuşun yediği, senin sadakan 🌳\n\nSen en son ne zaman bir fidan diktin?\n\nKaynak: Buhârî, Hars 1 · Müslim, Müsâkât 12\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#ağaç",
+  "#sadaka",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/3911 (Sahih, muttefekun aleyh; Câbir ve Enes rivayetleri: 'Bir müslüman, bir ağaç dikerse, o ağaçtan yenilen (ürün), onun için bir sadaka olur.')",
+  "https://www.islamveihsan.com/agac-dikmek-sadaka-i-cariyedir.html (Enes: 'Bir müslüman bir ağaç diker veya ekin eker...' Buhârî, Hars 1; Müslim, Müsâkât 9, 12; Riyâzü's-Sâlihîn)"
+ ]
+}

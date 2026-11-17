@@ -1,0 +1,68 @@
+{
+ "id": "022",
+ "slug": "yoldaki_dal",
+ "title": "Yoldaki Dal",
+ "seed": 9232,
+ "kanca_yazi": "Bir dal yüzünden affedilen adam",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Bir adam, yoldaki bir dal yüzünden affedildi.",
+   "prompt": "a single thorny branch lying across an empty dirt road at dawn, mist, long shadows, no people",
+   "insan": false
+  },
+  {
+   "text": "Sabah işe giderken kaldırımda kırık bir şişe görüyorsun.",
+   "prompt": "pieces of a broken glass bottle on an empty city sidewalk in cool morning light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false
+  },
+  {
+   "text": "Üstünden atlıyorsun. Nasılsa biri kaldırır.",
+   "prompt": "ONE single faceless bare-headed man in a coat walking past on a sidewalk in the morning, seen from behind, hurried posture, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Bir adam yolda yürürken dikenli bir dal buldu ve onu yoldan kaldırdı. Allah da ondan memnun oldu ve onu bağışladı.",
+   "prompt": "a quiet country road at sunrise with golden light, a thorny branch placed at the roadside, clear path, no people",
+   "insan": false,
+   "yer": "Buhârî 652 · Müslim 1914",
+   "sicak": true
+  },
+  {
+   "text": "Kimse görmedi, kimse teşekkür etmedi. Ama Allah gördü.",
+   "prompt": "an empty clean street at sunrise with long warm shadows, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün yolda insanlara zarar verecek bir şey görürsen, kaldır.",
+   "prompt": "ONE single faceless bare-headed young man bending down to pick up a fallen branch from a sidewalk, morning sunlight, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Ya da arabanı kimsenin yolunu kapatmayacak bir yere park et.",
+   "prompt": "a single car neatly parked by the curb on a quiet street leaving the sidewalk and ramp free, morning light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, her sabah aynı yoldan işe giden birine gönder.",
+   "prompt": "two faceless bare-headed men in jackets walking to work together on a sunny morning street, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Bir adam yolda yürürken dikenli bir dal buldu ve onu yoldan kaldırdı. Allah da ondan memnun oldu ve onu bağışladı.",
+ "kaynak": "Buhârî 652 · Müslim 1914",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Bir dal, bir af 🌿\n\nBugün yolda kimin için bir engeli kaldırabilirsin?\n\nKaynak: Buhârî 652 · Müslim 1914\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#iyilik",
+  "#yol",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/6469 (Sahih, muttefekun aleyh; Ebû Hüreyre; Müslim 1914: 'Bir adam yolda yürürken, dikenli bir dal buldu ve onu yoldan kaldırdı. Bu sebeple Allah da ondan memnun oldu ve onu bağışladı.')",
+  "https://en.tohed.com/hadith/bukhari/652/ (Buhârî 652, aynı hadis)"
+ ]
+}

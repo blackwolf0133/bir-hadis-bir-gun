@@ -1,0 +1,67 @@
+{
+ "id": "027",
+ "slug": "cok_yakinim",
+ "title": "Yakınım",
+ "seed": 9287,
+ "kanca_yazi": "Duan tavana çarpıp geri mi dönüyor?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Duam tavana çarpıp geri dönüyor, mu diyorsun?",
+   "prompt": "ONE single faceless woman in a headscarf sitting on a prayer rug by a dark window at night, hands raised in prayer, seen from behind"
+  },
+  {
+   "text": "Hastane koridorunda bekliyorsun. Dilinde tek bir kelime: Allah'ım.",
+   "prompt": "ONE single faceless bare-headed man sitting alone on a plastic chair in a hospital corridor at night, elbows on knees, cold light"
+  },
+  {
+   "text": "İçinden bir ses: Çok uzaktasın, duyulmuyorsun.",
+   "prompt": "a long empty hospital corridor at night with cold fluorescent lights, a single door slightly open, no people",
+   "insan": false
+  },
+  {
+   "text": "Allah Bakara Suresi'nde buyuruyor: Kullarım sana Beni sorarlarsa, bilsinler ki Ben, şüphesiz onlara yakınım. Benden isteyenin, dua ettiğinde duasını kabul ederim.",
+   "prompt": "an open book on a wooden folding reading stand under a soft beam of light in a quiet dark room, no visible text, no people",
+   "insan": false,
+   "yer": "Bakara 2/186 (Diyanet meali)",
+   "sicak": true
+  },
+  {
+   "text": "Dikkat et: Başka sorularda cevap “De ki” diye başlar. Burada Allah doğrudan cevap veriyor: Yakınım.",
+   "prompt": "moonlight pouring through a window onto a prayer rug in a quiet room, peaceful glow, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu gece kendi dilinle, kendi cümlelerinle iste.",
+   "prompt": "ONE single faceless bare-headed young man kneeling on a prayer rug in a dim room lit by a single warm lamp, seen from behind, hands raised in prayer",
+   "sicak": true
+  },
+  {
+   "text": "Uzak olan biz olabiliriz. O, yakın.",
+   "prompt": "first light of dawn over a quiet city with soft pink clouds, a small Ottoman-style mosque with a single dome topped by a golden crescent finial and one slender minaret in the distance, no crosses, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, şu an birinin şifası için dua eden birine gönder.",
+   "prompt": "exactly two faceless figures standing at a hospital window at sunrise, seen from behind: ONE woman in a headscarf and ONE bare-headed man, warm light coming in, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Kullarım sana Beni sorarlarsa, bilsinler ki Ben, şüphesiz onlara yakınım. Benden isteyenin, dua ettiğinde duasını kabul ederim. Artık onlar da davetimi kabul edip Bana inansınlar ki doğru yolda yürüyenlerden olsunlar.",
+ "kaynak": "Bakara 2/186",
+ "kart_baslik": "ÂYET-İ KERÎME",
+ "caption": "“Duam duyulmuyor” deme 🤲\n\nBu gece kimin için dua edeceksin?\n\nKaynak: Bakara 2/186 (Diyanet meali)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#ayet",
+  "#kuran",
+  "#dua",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://qurano.com/tr/2-al-baqara/ayah-186/ (Diyanet İşleri meali: 'Kullarım sana Beni sorarlarsa, bilsinler ki Ben, şüphesiz onlara yakınım. Benden isteyenin, dua ettiğinde duasını kabul ederim. Artık onlar da davetimi kabul edip Bana inansınlar ki doğru yolda yürüyenlerden olsunlar.')",
+  "https://www.islamveihsan.com/bakara-suresi-186-ayet-meali-arapca-yazilisi-anlami-ve-tefsiri.html (meal ve tefsir: 'şüphesiz ben onlara çok yakınım')"
+ ]
+}

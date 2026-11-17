@@ -1,0 +1,68 @@
+{
+ "id": "029",
+ "slug": "goz_yasarir",
+ "title": "Göz Yaşarır",
+ "seed": 9309,
+ "kanca_yazi": "Ağlamak, sabırsızlık mı?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Cenazede ağladın diye biri sana: Ağlama, sabret, dedi mi?",
+   "prompt": "a quiet garden under a grey sky with cypress trees and a single wooden bench, soft rain, no crosses, no religious symbols, no people",
+   "insan": false
+  },
+  {
+   "text": "Babanı kaybettin. Herkes güçlü durmanı bekliyor.",
+   "prompt": "ONE single faceless bare-headed man in a dark coat standing alone at a window on a grey day, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Gözyaşlarını saklıyorsun, sanki iman eksikliğiymiş gibi.",
+   "prompt": "an empty armchair with a folded jacket and a pair of reading glasses on a side table, dim evening light, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz, oğlu İbrahim vefat ettiğinde buyurdu: Göz yaşarır, kalp hüzünlenir. Biz ancak Rabbimizin razı olacağı sözleri söyleriz.",
+   "prompt": "soft light falling through rain-streaked glass onto a quiet room, gentle and calm mood, no people",
+   "insan": false,
+   "yer": "Buhârî, Cenâiz 43 · Müslim, Fezâil 62",
+   "sicak": true
+  },
+  {
+   "text": "Ağlamak sabırsızlık değil. Kalpteki merhametin izi.",
+   "prompt": "raindrops on a green leaf with soft morning light breaking through clouds, close-up, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Hüznünü Allah'a aç. İsyan etmeden, dua ederek.",
+   "prompt": "ONE single faceless woman in a headscarf sitting on a prayer rug by a window at dusk, hands raised in prayer, seen from behind",
+   "sicak": true
+  },
+  {
+   "text": "Bugün kaybettiğin biri için dua et.",
+   "prompt": "a calm sunrise over a quiet hillside with cypress trees and soft clouds, peaceful, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, yakın zamanda birini kaybetmiş bir dostuna gönder.",
+   "prompt": "two faceless bare-headed men sitting side by side on a bench at sunrise, one with his arm around the other's shoulder, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Göz yaşarır, kalp hüzünlenir. Biz ancak Rabbimizin razı olacağı sözleri söyleriz.",
+ "kaynak": "Buhârî, Cenâiz 43 · Müslim, Fezâil 62",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Ağlamak sabırsızlık değil 🤍\n\nKaybettiğin biri için bugün bir dua bırakır mısın?\n\nKaynak: Buhârî, Cenâiz 43 · Müslim, Fezâil 62\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#sabır",
+  "#yas",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5026 (Sahih, muttefekun aleyh; Enes b. Mâlik: 'Şüphesiz göz ağlar, kalp de mahzun olur. Biz ise, Rabbimizin razı olacağı sözden başka söz söylemeyiz.')",
+  "https://www.islamveihsan.com/goz-yasarir-kalp-huzunlenir-hadisi.html (Buhârî, Cenâiz 43; Müslim, Fedâil 62; Riyâzü's-Sâlihîn)"
+ ]
+}
