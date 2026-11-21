@@ -1,0 +1,66 @@
+{
+ "id": "034",
+ "slug": "once_selam",
+ "title": "Önce Selam",
+ "seed": 9364,
+ "kanca_yazi": "Kardeşinle küs kalalı kaç gün oldu?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Kardeşinle küs kalalı kaç gün oldu?",
+   "prompt": "ONE single faceless bare-headed man standing alone at a window at dusk holding his phone, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Bir miras, bir laf, bir kırgınlık. Artık aynı sofraya oturmuyorsunuz.",
+   "prompt": "a long dinner table with two empty chairs facing each other at opposite ends, cold light, no people",
+   "insan": false
+  },
+  {
+   "text": "Bayramda bile birbirinizi görmezden geldiniz.",
+   "prompt": "two faceless bare-headed men passing each other on a quiet sidewalk, each turning his head away, seen from a distance, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Bir Müslümanın, kardeşine üç günden fazla küs durması helal değildir. Karşılaşırlar, biri bir yana, öteki öbür yana döner. İkisinin hayırlısı, önce selam verendir.",
+   "prompt": "two cups of tea on a small table between two empty chairs in warm light, no people",
+   "insan": false,
+   "yer": "Buhârî, Edeb 62 · Müslim, Birr 25",
+   "sicak": true
+  },
+  {
+   "text": "Haklı çıkmak değil, önce selam vermek kazandırıyor.",
+   "prompt": "a door slightly open with warm light spilling into a hallway, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün tek bir mesaj yaz: Selamün aleyküm, nasılsın?",
+   "prompt": "close-up of a phone in two hands with a short message being typed, warm evening light, no readable text, faceless"
+  },
+  {
+   "text": "Gerisini Allah'a bırak.",
+   "prompt": "sunrise over a quiet hillside with soft clouds, peaceful, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, barışmak isteyip ilk adımı atamayan birine gönder.",
+   "prompt": "two faceless bare-headed men embracing on a quiet street at sunset, seen from the side, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Bir Müslümanın, din kardeşini üç günden fazla terk edip onunla küs durması helal değildir. Karşılaşırlar, biri bir tarafa, öteki öbür tarafa döner. Hâlbuki o ikisinin en hayırlısı önce selam verendir.",
+ "kaynak": "Buhârî, Edeb 62 · Müslim, Birr 25",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "İlk adımı kim atacak? 🤝\n\nİkisinin hayırlısı, önce selam veren. Bugün kime ilk selamı vereceksin?\n\nKaynak: Buhârî, Edeb 62 · Müslim, Birr 25\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#kardeşlik",
+  "#barış",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5365 (Sahih, muttefekun aleyh; Ebû Eyyûb el-Ensârî; Buhârî 6077)",
+  "https://www.islamveihsan.com/uc-gunden-fazla-kus-kalmak-ile-ilgili-ayet-ve-hadisler.html (Riyâzü's-Sâlihîn; Buhârî, Edeb 62, İsti'zân 9; Müslim, Birr 23, 25, 26)"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": "041",
+ "slug": "bir_yolcu",
+ "title": "Bir Yolcu",
+ "seed": 9441,
+ "kanca_yazi": "Bekleme salonuna kimse halı döşemez",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Otobüs terminalinde bekliyorsun. Bavulunda sadece lazım olanlar var.",
+   "prompt": "ONE single faceless bare-headed man sitting on a bench in a bus terminal at dawn with a small suitcase, seen from behind"
+  },
+  {
+   "text": "Kimse bekleme salonuna halı döşemez, değil mi?",
+   "prompt": "an empty bus terminal waiting hall at dawn with rows of plastic seats, soft light, no people",
+   "insan": false
+  },
+  {
+   "text": "Ama biz dünyaya hiç gitmeyecekmiş gibi yerleşiyoruz.",
+   "prompt": "stacks of cardboard boxes and new furniture crowding an apartment living room, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Dünyada bir garip veya bir yolcu gibi ol.",
+   "prompt": "a long empty road stretching toward the horizon at sunrise, mist over fields, no people",
+   "insan": false,
+   "yer": "Buhârî, Rikâk 3",
+   "sicak": true
+  },
+  {
+   "text": "Yolcu hüzünlü değildir. Sadece nereye gittiğini bilir.",
+   "prompt": "a bus driving along a coastal road at sunrise, seen from far away, no people visible",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Sevdiklerinle vakit geçir, çalış, üret. Ama asıl yurdunu unutma.",
+   "prompt": "exactly three faceless figures sharing breakfast at a simple table by a window at sunrise: ONE woman in a headscarf, ONE bare-headed man and ONE small child, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Bugün ahiret için de bir şey biriktir: bir dua, bir iyilik.",
+   "prompt": "ONE single faceless bare-headed man giving a bag of bread to an elderly bare-headed man at a street corner, morning light, seen from the side, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, yol arkadaşın olmasını istediğin birine gönder.",
+   "prompt": "two faceless bare-headed men walking with backpacks on a path toward a sunrise, seen from behind",
+   "sicak": true
+  }
+ ],
+ "hisse": "Dünyada bir garip gibi veya bir yolcu gibi ol.",
+ "kaynak": "Buhârî, Rikâk 3",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Bu dünyada bir yolcuyuz 🧳\n\nYolcu yükünü hafif tutar. Senin bavulunda ahiret için ne var?\n\nKaynak: Buhârî, Rikâk 3\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#ahiret",
+  "#dünya",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/4704 (Sahih, Buhârî 6416: 'Dünyada bir garip gibi veya bir yolcu gibi ol.')",
+  "https://www.islamveihsan.com/dunyada-sanki-bir-garip-veya-bir-yolcu-gibi-ol-hadisi.html (Buhârî, Rikâk 3; Tirmizî, Zühd 25; İbn Mâce, Zühd 3)"
+ ]
+}

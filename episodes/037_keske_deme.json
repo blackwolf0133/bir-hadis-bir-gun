@@ -1,0 +1,67 @@
+{
+ "id": "037",
+ "slug": "keske_deme",
+ "title": "Keşke Deme",
+ "seed": 9397,
+ "kanca_yazi": "Tek bir kelime şeytana kapı açıyor",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Sınav bitti. Bir soruyu yanlış işaretlediğini fark ettin.",
+   "prompt": "ONE single faceless bare-headed young man sitting alone at a desk in an empty classroom, head in his hands, afternoon light"
+  },
+  {
+   "text": "Ya da o iş görüşmesi. O yatırım. O söylemediğin söz.",
+   "prompt": "an empty office chair turned toward a rainy window, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false
+  },
+  {
+   "text": "Gece yatakta aynı cümle: Keşke şöyle yapsaydım.",
+   "prompt": "ONE single faceless bare-headed man lying awake in a dark bedroom staring at the ceiling, moonlight, seen from the side"
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Başına bir şey gelirse, keşke şöyle yapsaydım deme. Allah takdir etti, dilediğini yaptı de. Çünkü keşke, şeytanın işine kapı açar.",
+   "prompt": "morning light slowly filling a quiet room through a window, dust in the sunbeam, no people",
+   "insan": false,
+   "yer": "Müslim, Kader 34",
+   "sicak": true
+  },
+  {
+   "text": "Aynı hadiste: Sana fayda verecek şeye sarıl, Allah'tan yardım iste, aciz olma.",
+   "prompt": "a sturdy young tree standing on a hill in the wind at sunrise, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Yani elinden geleni yap, sonucu O'na bırak, geçmişte takılma.",
+   "prompt": "ONE single faceless bare-headed young man walking out of a building into bright morning sunlight, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Bugün bir keşkeyi bırak, bir sonraki adımını yaz.",
+   "prompt": "an open notebook with a pen on a wooden desk in morning sunlight, no readable text, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, bir hatası yüzünden kendini yiyip bitiren birine gönder.",
+   "prompt": "two faceless bare-headed young men walking up a hill path at sunrise, one with a hand on the other's shoulder, seen from behind",
+   "sicak": true
+  }
+ ],
+ "hisse": "Kuvvetli mümin, zayıf müminden daha hayırlı ve Allah'a daha sevimlidir; her ikisinde de hayır vardır. Sana fayda verecek şeye sarıl, Allah'tan yardım dile, aciz olma. Başına bir şey gelirse 'Keşke şöyle yapsaydım' deme; 'Allah takdir etti, dilediğini yaptı' de. Çünkü 'keşke' şeytanın işine kapı açar.",
+ "kaynak": "Müslim, Kader 34",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Keşkeyi bırak, adımı at 🌅\n\nGeçmişi değiştiremezsin ama bugünü değiştirebilirsin. Bugün hangi adımı atacaksın?\n\nKaynak: Müslim, Kader 34\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#tevekkül",
+  "#umut",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5493 (Sahih, Müslim 2664; 'Zira keşke kelimesi Şeytan'ın yapacağı işlere kapı açar.')",
+  "https://www.islamveihsan.com/kuvvetli-muminin-ozellikleri.html (Riyâzü's-Sâlihîn tercümesi; Müslim, Kader 34)"
+ ]
+}

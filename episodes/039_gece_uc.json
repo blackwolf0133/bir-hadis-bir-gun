@@ -1,0 +1,68 @@
+{
+ "id": "039",
+ "slug": "gece_uc",
+ "title": "Gece Üçte",
+ "seed": 9419,
+ "kanca_yazi": "Gece üç, ekran hâlâ açık. Neden?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Gece üç. Ekran hâlâ açık, kalbin hâlâ huzursuz.",
+   "prompt": "ONE single faceless bare-headed young man lying on a bed in a dark bedroom lit only by his phone screen, seen from the side"
+  },
+  {
+   "text": "Bir video daha, bir haber daha. Ama sakinleşmiyorsun.",
+   "prompt": "a smartphone glowing on a rumpled pillow in a dark room, a digital clock showing three o'clock, no people",
+   "insan": false
+  },
+  {
+   "text": "Huzuru hep bir sonraki kaydırmada arıyoruz.",
+   "prompt": "a dark window at night with distant city lights, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false
+  },
+  {
+   "text": "Allah Ra'd Suresi'nde buyuruyor: Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur.",
+   "prompt": "an open book on a wooden folding reading stand under a soft beam of moonlight in a quiet dark room, no visible text, no people",
+   "insan": false,
+   "yer": "Ra'd 13/28 (Diyanet meali)",
+   "sicak": true
+  },
+  {
+   "text": "Ancak kelimesine dikkat et: Adres tek.",
+   "prompt": "moonlight pouring through a window onto a prayer rug in a quiet room, peaceful glow, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu gece telefonu kenara koy. Allah'ı an, kendi kelimelerinle.",
+   "prompt": "ONE single faceless bare-headed young man sitting on the edge of his bed in moonlight, hands open in prayer, phone face down on the nightstand, seen from behind",
+   "sicak": true
+  },
+  {
+   "text": "Kalbin yavaş yavaş sakinleşsin.",
+   "prompt": "a calm dawn sky over quiet rooftops with soft pink clouds, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, geceleri uyuyamayan bir arkadaşına gönder.",
+   "prompt": "ONE single faceless woman in a headscarf sitting peacefully by a window at dawn with a cup of tea, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Onlar, inananlar ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Biliniz ki, kalpler ancak Allah'ı anmakla huzur bulur.",
+ "kaynak": "Ra'd 13/28",
+ "kart_baslik": "ÂYET-İ KERÎME",
+ "caption": "Huzuru nerede arıyorsun? 🌙\n\nBir kaydırma daha huzur getirmiyor. Bu gece telefonu kaçta bırakacaksın?\n\nKaynak: Ra'd 13/28 (Diyanet meali)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#ayet",
+  "#kuran",
+  "#huzur",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://www.kuranmeali.com/mobil/m-AyetKarsilastirma.php?sure=13&ayet=28 (Diyanet İşleri Meali (Yeni), birebir metin)",
+  "https://acikkuran.com/rad-suresi/28-ayet-meali (Diyanet İşleri Türkçe Meali, aynı metin)"
+ ]
+}

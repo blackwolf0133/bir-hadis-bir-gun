@@ -1,0 +1,68 @@
+{
+ "id": "040",
+ "slug": "kalbine_bakar",
+ "title": "Kalbine Bakar",
+ "seed": 9430,
+ "kanca_yazi": "Kaç beğeni aldığına Allah bakıyor mu?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Fotoğrafı on kez çektin. Filtre seçtin, sildin, yeniden çektin.",
+   "prompt": "ONE single faceless young woman in a headscarf holding up a phone to take a photo of her coffee at a cafe table, seen from the side"
+  },
+  {
+   "text": "Paylaştın. Sonra her beş dakikada bir beğenilere baktın.",
+   "prompt": "a phone on a desk glowing with notification lights next to a cold coffee, no readable text, no people",
+   "insan": false
+  },
+  {
+   "text": "Ya da arkadaşının pahalı ayakkabısına bakıp kendini küçük gördün.",
+   "prompt": "a pair of worn simple sneakers on a shoe rack by an apartment door, soft light, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Allah sizin suretlerinize ve mallarınıza bakmaz; fakat kalplerinize ve amellerinize bakar.",
+   "prompt": "soft light falling on a simple wooden table with a single glass of water, quiet and pure, no people",
+   "insan": false,
+   "yer": "Müslim, Birr 34",
+   "sicak": true
+  },
+  {
+   "text": "Görünüş değil, niyet. Marka değil, amel.",
+   "prompt": "a warm candle-like lamp glowing in a quiet dark room, calm, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün kimsenin görmediği bir iyilik yap. Fotoğrafını çekme.",
+   "prompt": "ONE single faceless bare-headed young man quietly placing a bag of groceries at a neighbor's door in an apartment hallway, seen from behind",
+   "sicak": true
+  },
+  {
+   "text": "Sadece Allah bilsin.",
+   "prompt": "a quiet sunrise over rooftops with birds flying, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, kendini başkalarıyla kıyaslayıp üzülen birine gönder.",
+   "prompt": "two faceless young women in headscarves sitting on a park bench at sunset laughing together, phones put away, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Allah sizin suretlerinize ve mallarınıza bakmaz; fakat kalplerinize ve amellerinize bakar.",
+ "kaynak": "Müslim, Birr 34",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Allah neye bakıyor? 🤍\n\nBeğeni değil, niyet. Bugün kimsenin görmeyeceği hangi iyiliği yapacaksın?\n\nKaynak: Müslim, Birr 34\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#niyet",
+  "#kalp",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/4555 (Sahih, Müslim 2564: 'Allah sizin dış görünüşünüze ve mallarınıza bakmaz. Ama o sizin kalplerinize ve amellerinize bakar.')",
+  "https://www.islamveihsan.com/allah-sizin-kalplerinize-bakar-hadisi.html (Müslim, Birr 34)"
+ ]
+}

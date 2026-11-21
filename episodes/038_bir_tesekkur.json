@@ -1,0 +1,69 @@
+{
+ "id": "038",
+ "slug": "bir_tesekkur",
+ "title": "Bir Teşekkür",
+ "seed": 9408,
+ "kanca_yazi": "Kapıdaki kuryeye en son ne dedin?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Kapı çaldı, sipariş geldi. Paketi aldın, kapıyı kapattın.",
+   "prompt": "an apartment door closing on a dim stairwell, a wet footprint on the doormat, no people",
+   "insan": false
+  },
+  {
+   "text": "Yağmur altında yedinci kat. Asansör bozuk.",
+   "prompt": "ONE single faceless bare-headed delivery man in a wet rain jacket climbing a stairwell carrying a package, seen from behind"
+  },
+  {
+   "text": "Tek bir teşekkür duymadan sonraki adrese gitti.",
+   "prompt": "a delivery motorbike parked in the rain on a city street at night, wet reflections, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: İnsanlara teşekkür etmeyen, Allah'a şükretmiş olmaz.",
+   "prompt": "warm light glowing through a rainy window at night, cozy and calm, no people",
+   "insan": false,
+   "yer": "Tirmizî, Birr 35 · Ebû Dâvûd, Edeb 11",
+   "sicak": true
+  },
+  {
+   "text": "Teşekkür, şükrün insanlara dokunan yüzü.",
+   "prompt": "a hot cup of tea placed on a doorstep shelf beside a delivered package, warm light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün çaycıya, şoföre, kasiyere, annene söyle: Eline sağlık.",
+   "prompt": "ONE faceless woman in a headscarf handing a cup of tea to ONE faceless bare-headed delivery man at an apartment door, warm light",
+   "sicak": true
+  },
+  {
+   "text": "İki kelime, birinin bütün gününü değiştirebilir.",
+   "prompt": "rain stopping over a city street at dawn, first sunlight on wet pavement, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, kurye olarak çalışan bir arkadaşına gönder.",
+   "prompt": "ONE single faceless bare-headed delivery man riding a motorbike down a sunny morning street, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "İnsanlara teşekkür etmeyen, Allah'a şükretmiş olmaz.",
+ "kaynak": "Tirmizî, Birr 35 · Ebû Dâvûd, Edeb 11",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "İki kelime, bir şükür 🙏\n\nTeşekkür, şükrün bir parçası. Bugün kime teşekkür edeceksin?\n\nKaynak: Tirmizî, Birr 35 · Ebû Dâvûd, Edeb 11\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#teşekkür",
+  "#şükür",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/66255 (Sahih; Ebû Dâvûd 4811, Tirmizî, Ahmed)",
+  "https://sunnah.com/tirmidhi:1954 (Tirmizî, Birr bab 35: 'hasen sahih')",
+  "https://www.islamveihsan.com/insanlara-tesekkur-etmek-allaha-sukrun-bir-geregi-midir.html (yaygın tercüme; Ebû Dâvûd, Edeb 11)"
+ ]
+}

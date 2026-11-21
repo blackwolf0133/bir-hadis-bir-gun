@@ -1,0 +1,68 @@
+{
+ "id": "032",
+ "slug": "grup_sohbeti",
+ "title": "Grup Sohbeti",
+ "seed": 9342,
+ "kanca_yazi": "Kur'an gıybeti neye benzetiyor, biliyor musun?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Aile grubuna biri yazdı: Duydunuz mu, onun oğlu…",
+   "prompt": "a smartphone lying on a sofa cushion at night, its screen glowing with a stream of chat bubbles, no readable text, no people",
+   "insan": false
+  },
+  {
+   "text": "Herkes çevrimiçi. Mesajlar art arda düşüyor.",
+   "prompt": "ONE single faceless woman in a headscarf sitting on a sofa at night looking at her phone, lit by the screen, seen from the side"
+  },
+  {
+   "text": "Konuşulan kişi grupta yok. Kendini savunamıyor.",
+   "prompt": "an empty chair at the end of a set dinner table in a dim room, a single lamp, no people",
+   "insan": false
+  },
+  {
+   "text": "Allah Hucurât Suresi'nde buyuruyor: Birbirinizin gıybetini yapmayın. Herhangi biriniz ölü kardeşinin etini yemekten hoşlanır mı? İşte bundan tiksindiniz!",
+   "prompt": "an open book on a wooden folding reading stand under a soft beam of light in a quiet dark room, no visible text, no people",
+   "insan": false,
+   "yer": "Hucurât 49/12 (Diyanet meali)",
+   "sicak": true
+  },
+  {
+   "text": "Ağır bir benzetme. Çünkü gıyabında konuşulan, cevap veremez.",
+   "prompt": "a phone placed face down on a wooden table next to a cup of tea, soft warm light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bir dahaki sefere sadece şunu yaz: Kendisi yokken konuşmayalım.",
+   "prompt": "ONE single faceless bare-headed man typing on his phone by a window at dusk, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Ayetin sonu da umut: Şüphesiz Allah tövbeyi çok kabul edendir.",
+   "prompt": "soft sunrise light over quiet rooftops and gentle clouds, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, grupta hep konuyu güzelce değiştiren o insana gönder.",
+   "prompt": "exactly two faceless figures sitting on a balcony drinking tea at sunset, seen from behind: ONE woman in a headscarf and ONE bare-headed man, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Ey iman edenler! Zannın birçoğundan sakının. Çünkü zannın bir kısmı günahtır. Birbirinizin kusurlarını ve mahremiyetlerini araştırmayın. Birbirinizin gıybetini yapmayın. Herhangi biriniz ölü kardeşinin etini yemekten hoşlanır mı? İşte bundan tiksindiniz! Allah'a karşı gelmekten sakının. Şüphesiz Allah tövbeyi çok kabul edendir, çok merhamet edendir.",
+ "kaynak": "Hucurât 49/12",
+ "kart_baslik": "ÂYET-İ KERÎME",
+ "caption": "O grup mesajını göndermeden önce 📱\n\nOrada olmayan, kendini savunamaz. Sen grupta konuyu nasıl değiştiriyorsun?\n\nKaynak: Hucurât 49/12 (Diyanet meali)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#ayet",
+  "#kuran",
+  "#gıybet",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://www.kuranmeali.com/AyetKarsilastirma.php?sure=49&ayet=12 (Diyanet İşleri Meali (Yeni), birebir metin)",
+  "https://acikkuran.com/hucurat-suresi/12-ayet-meali (Diyanet İşleri Türkçe Meali, aynı metin)"
+ ]
+}

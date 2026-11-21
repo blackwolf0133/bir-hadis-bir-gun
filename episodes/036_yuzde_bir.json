@@ -1,0 +1,69 @@
+{
+ "id": "036",
+ "slug": "yuzde_bir",
+ "title": "Yüzde Bir",
+ "seed": 9386,
+ "kanca_yazi": "Annenin şefkati, rahmetin sadece bir parçası",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Gece üçte bebeği için uyanan bir anne. Bu şefkat nereden geliyor?",
+   "prompt": "ONE single faceless woman in a headscarf holding a sleeping baby by a crib at night, dim warm lamp, seen from behind"
+  },
+  {
+   "text": "Bir kuş yavrusuna yem taşıyor. Bir kedi yavrusunu koruyor.",
+   "prompt": "a mother bird feeding small chicks in a nest on a tree branch, soft morning light, close-up, no people",
+   "insan": false
+  },
+  {
+   "text": "Dünyadaki bütün bu şefkat, aslında küçük bir parça.",
+   "prompt": "a mother cat curled around her kittens on a soft blanket in warm light, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Allah rahmeti yüz parçaya ayırdı, doksan dokuzunu yanında tuttu, birini yeryüzüne indirdi. Bu bir parça sayesinde bütün yaratılmışlar birbirine merhamet eder. Hatta kısrak, yavrusuna zarar vermemek için ayağını kaldırır.",
+   "prompt": "a mare gently standing beside her foal in a misty meadow at sunrise, no people",
+   "insan": false,
+   "yer": "Buhârî, Edeb 19 · Müslim, Tevbe 17",
+   "sicak": true
+  },
+  {
+   "text": "Bir parçası buysa, doksan dokuzunu düşün.",
+   "prompt": "vast golden sky with soft light breaking through clouds over green hills, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu umut tembellik değil; o rahmete yakışan biri olmaya çalışmak.",
+   "prompt": "ONE single faceless bare-headed man kneeling on a prayer rug by a window at dawn, seen from behind, hands raised in prayer",
+   "sicak": true
+  },
+  {
+   "text": "Bugün bir canlıya merhamet et: Bir kap su, tatlı bir söz.",
+   "prompt": "a small bowl of water placed by a doorstep for a stray cat, morning light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, Allah'ın rahmetinden ümidini kesmiş birine gönder.",
+   "prompt": "exactly two faceless figures walking on a quiet hillside path at sunrise, seen from behind: ONE woman in a headscarf and ONE bare-headed man",
+   "sicak": true
+  }
+ ],
+ "hisse": "Allah rahmeti yüz parçaya ayırdı, doksan dokuz parçasını yanında tuttu, bir parçasını ise yeryüzüne indirdi. İşte bu bir parça sayesinde bütün mahlûklar birbirlerine merhametli davranırlar. Hatta kısrak, yavrusuna zarar verme korkusuyla ayağını kaldırır.",
+ "kaynak": "Buhârî, Edeb 19 · Müslim, Tevbe 17",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Doksan dokuzunu düşün 🌿\n\nDünyadaki bütün şefkat, rahmetin tek bir parçası. Bugün hangi canlıya merhamet edeceksin?\n\nKaynak: Buhârî, Edeb 19 · Müslim, Tevbe 17\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#rahmet",
+  "#umut",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://webdosya.diyanet.gov.tr/ramazan/UserFiles/00000000-0000-0000-0000-000000000000/2025/2/21/3583b2cb-3ef8-4dd2-9e74-985812e97ef1.pdf (Diyanet Hadislerle İslâm metni: '...Hatta kısrak ... ayağını kaldırır.' Buhârî, Edeb 19 (B6000))",
+  "https://hadeethenc.com/tr/browse/hadith/4291 (Sahih, muttefekun aleyh)",
+  "https://www.islamveihsan.com/allah-rahmetini-yuz-parcaya-ayirdi-hadisi.html (Buhârî, Edeb 19; Müslim, Tevbe 17, 19)"
+ ]
+}

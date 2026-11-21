@@ -1,0 +1,68 @@
+{
+ "id": "031",
+ "slug": "hic_opmedim",
+ "title": "Hiç Öpmedim",
+ "seed": 9331,
+ "kanca_yazi": "On çocuğu vardı, birini bile öpmemişti",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Babanın sana en son ne zaman sarıldığını hatırlıyor musun?",
+   "prompt": "an old empty armchair with a folded knitted blanket beside a window in late afternoon light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false
+  },
+  {
+   "text": "Akşam eve geldin. Çocuğun koşarak geldi, sen telefondaydın.",
+   "prompt": "ONE faceless bare-headed man standing in an apartment hallway looking at his phone while ONE small faceless child runs toward him with open arms, evening lamp light"
+  },
+  {
+   "text": "Sevgimi göstermeme gerek yok, zaten biliyor, diyoruz.",
+   "prompt": "a child's colorful crayon drawing of a house and a sun stuck on a fridge door with magnets, soft kitchen light, no people",
+   "insan": false
+  },
+  {
+   "text": "Bir adam, on çocuğu olduğunu ve hiçbirini öpmediğini söyledi. Peygamber Efendimiz ona baktı ve buyurdu: Merhamet etmeyene merhamet olunmaz.",
+   "prompt": "warm light falling on a small pair of children's shoes by a door in a quiet home, no people",
+   "insan": false,
+   "yer": "Buhârî, Edeb 18 · Müslim, Fezâil 65",
+   "sicak": true
+  },
+  {
+   "text": "Merhamet içte kalınca eksik kalır. Gösterilmesi gerekir.",
+   "prompt": "a cup of warm milk and a storybook on a child's bedside table under a soft lamp, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu akşam telefonu bırak. Çocuğunu, anneni, babanı öp.",
+   "prompt": "ONE faceless bare-headed man kneeling in a warm living room hugging ONE small faceless child, seen from behind, a phone left face down on the sofa",
+   "sicak": true
+  },
+  {
+   "text": "Merhamet ettikçe merhamet buluruz.",
+   "prompt": "golden evening light through a window onto a family dinner table set for four, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, çocuklarını çok seven ama söyleyemeyen bir babaya gönder.",
+   "prompt": "ONE faceless bare-headed father walking in a park at sunset holding hands with ONE small faceless child, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Merhamet etmeyene merhamet olunmaz.",
+ "kaynak": "Buhârî, Edeb 18 · Müslim, Fezâil 65",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Sevgin içinde kalmasın 🤍\n\nBir öpücük, bir sarılma da merhamettir. Bu akşam kime sarılacaksın?\n\nKaynak: Buhârî, Edeb 18 · Müslim, Fezâil 65\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#merhamet",
+  "#aile",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5440 (Sahih, muttefekun aleyh; Akra' b. Hâbis: 'on tane çocuğum var, onlardan hiç birini öpmedim' — 'Merhamet etmeyen kimseye merhamet olunmaz.')",
+  "https://www.islamveihsan.com/merhamet-etmeyene-merhamet-olunmaz-hadisi.html (Riyâzü's-Sâlihîn; Buhârî, Edeb 18; Müslim, Fezâil 65)"
+ ]
+}

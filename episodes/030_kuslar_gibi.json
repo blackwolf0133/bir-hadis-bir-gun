@@ -1,0 +1,69 @@
+{
+ "id": "030",
+ "slug": "kuslar_gibi",
+ "title": "Kuşlar Gibi",
+ "seed": 9320,
+ "kanca_yazi": "Sabah aç çıkan kuş, akşam nasıl doyuyor?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Alarm çaldı ve ilk düşüncen: Bu ay nasıl yetecek?",
+   "prompt": "ONE single faceless bare-headed man sitting on the edge of a bed in a dark bedroom before dawn, phone glowing in his hand, seen from the side"
+  },
+  {
+   "text": "Kira, fatura, okul masrafı. Daha kalkmadan yoruldun.",
+   "prompt": "a kitchen table at dawn with a stack of paper bills, a calculator and a cup of tea, cold blue light, no people",
+   "insan": false
+  },
+  {
+   "text": "Pencereyi aç. Serçeler çoktan işe çıkmış.",
+   "prompt": "small sparrows on a bare branch outside an open window at sunrise, soft golden light, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Eğer Allah'a hakkıyla tevekkül etseydiniz, sabah aç çıkıp akşam tok dönen kuşları rızıklandırdığı gibi sizi de rızıklandırırdı.",
+   "prompt": "a flock of small birds flying over golden fields at sunrise, wide calm sky, no people",
+   "insan": false,
+   "yer": "Tirmizî, Zühd 33",
+   "sicak": true
+  },
+  {
+   "text": "Dikkat et: Kuş yuvada beklemiyor. Uçuyor, arıyor.",
+   "prompt": "a small bird carrying a seed in its beak flying toward its nest in a tree, morning light, close-up, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Sen de çalış. Ama yükü kalbinde taşıma, O'na bırak.",
+   "prompt": "ONE single faceless bare-headed man in a work jacket walking down a quiet street at dawn with a small bag, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Bugün kapıdan çıkarken içinden söyle: Allah'a dayandım.",
+   "prompt": "an apartment door opening onto a bright morning stairwell, warm sunlight pouring in, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, ay sonunu düşünüp uyuyamayan birine gönder.",
+   "prompt": "two faceless bare-headed men walking side by side to work at sunrise, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Eğer Allah'a hakkıyla tevekkül etseydiniz, O; sabah aç çıkıp akşam tok dönen kuşları rızıklandırdığı gibi sizi de rızıklandırırdı.",
+ "kaynak": "Tirmizî, Zühd 33",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Kuşlar yarını dert etmiyor 🕊️\n\nÇalış, sonra yükü bırak. Bu sabah seni en çok ne düşündürüyor?\n\nKaynak: Tirmizî, Zühd 33\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#tevekkül",
+  "#rızık",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/4721 (Sahih; Hz. Ömer: 'Eğer Allah'a hakkıyla tevekkül etseydiniz, O; sabah aç çıkıp akşam tok dönen kuşları rızıklandırdığı gibi sizi de rızıklandırırdı.' Tirmizî, İbn Mâce, Ahmed)",
+  "https://www.islamveihsan.com/kuslar-gibi-riziklandirilirdiniz-hadisi.html (Riyâzü's-Sâlihîn tercümesi; Tirmizî, Zühd 33; İbn Mâce, Zühd 14)",
+  "https://hadithprophet.com/Hadith-translation-60544.html (Tirmizî 2344: 'hasen sahih')"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "035",
+ "slug": "hastalandim",
+ "title": "Hastalandım",
+ "seed": 9375,
+ "kanca_yazi": "Allah \"Hastalandım, gelmedin\" der mi?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Hastanede yatan bir arkadaşın var. Geçmiş olsun yazdın, o kadar.",
+   "prompt": "a phone on a desk showing a short sent message bubble, office light, no readable text, no people",
+   "insan": false
+  },
+  {
+   "text": "İşler yoğun, yol uzak. Bir ara uğrarım, dedin.",
+   "prompt": "a busy desk with a wall calendar full of marks and a cold cup of coffee, no people",
+   "insan": false
+  },
+  {
+   "text": "Odada kimse yok. Sadece makinenin sesi.",
+   "prompt": "ONE single faceless bare-headed man lying alone in a hospital bed by a window at dusk, a monitor glowing beside him, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Kudsî hadiste Allah kıyamet günü buyurur: Ey Âdemoğlu! Hastalandım, beni ziyaret etmedin. Falan kulum hastalandı; onu ziyaret etseydin, beni onun yanında bulurdun.",
+   "prompt": "soft golden light streaming through a hospital window onto an empty visitor chair, calm, no people",
+   "insan": false,
+   "yer": "Müslim, Birr 43",
+   "sicak": true
+  },
+  {
+   "text": "Bir hasta ziyareti, düşündüğünden çok daha büyük.",
+   "prompt": "a small bag of fruit and a bouquet of flowers on a hospital bedside table, warm light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu hafta bir hastayı ziyaret et. Gidemiyorsan ara, sesini duysun.",
+   "prompt": "ONE faceless bare-headed man sitting on a visitor chair beside ONE faceless bare-headed man in a hospital bed, warm afternoon light, seen from the side",
+   "sicak": true
+  },
+  {
+   "text": "On dakikalık bir sohbet, bir paket meyve yeter.",
+   "prompt": "a hospital window at sunrise with the curtain drawn open, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, hastanede yatan bir yakını olan birine gönder.",
+   "prompt": "exactly two faceless figures walking toward a hospital entrance in the morning, seen from behind: ONE woman in a headscarf carrying flowers and ONE bare-headed man, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Allah Teâlâ kıyâmet gününde şöyle buyurur: Ey Âdemoğlu! Hastalandım, beni ziyaret etmedin. Kul: Sen âlemlerin Rabbi iken ben seni nasıl ziyaret edebilirdim? der. Allah buyurur: Falan kulum hastalandı, ziyaretine gitmedin. Onu ziyaret etseydin, beni onun yanında bulurdun.",
+ "kaynak": "Müslim, Birr 43",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "O ziyaret sandığından büyük 🤍\n\nBir hasta ziyareti, Allah'ın rızasına giden yol. Bu hafta kimi ziyaret edeceksin?\n\nKaynak: Müslim, Birr 43\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#hastaziyareti",
+  "#vefa",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5544 (Sahih, Müslim; 'Ey Âdemoğlu! Hastalandım da beni ziyaret etmedin.')",
+  "https://www.islamveihsan.com/hasta-ziyareti-ile-ilgili-hadisi-serifler.html (Riyâzü's-Sâlihîn tercümesi; Müslim, Birr 43)"
+ ]
+}

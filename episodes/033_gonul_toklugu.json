@@ -1,0 +1,69 @@
+{
+ "id": "033",
+ "slug": "gonul_toklugu",
+ "title": "Gönül Tokluğu",
+ "seed": 9353,
+ "kanca_yazi": "Maaşın arttı, neden hâlâ yetmiyor?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Maaşın arttı. Peki neden hâlâ yetmiyor gibi?",
+   "prompt": "ONE single faceless bare-headed man sitting at a desk at night looking at a banking app on his phone, seen from behind, dim lamp"
+  },
+  {
+   "text": "Arkadaşın yeni araba aldı. Telefonunda yeni bir ilan açık.",
+   "prompt": "a phone screen glowing on a bed at night showing a blurred photo of a shiny car, no readable text, no people",
+   "insan": false
+  },
+  {
+   "text": "Her yeni şey birkaç gün sevindiriyor, sonra yine bir eksik.",
+   "prompt": "shopping bags and an unopened box piled in the corner of a quiet room, cold evening light, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Zenginlik, mal çokluğu değil, gönül tokluğudur.",
+   "prompt": "a simple wooden table with bread, olives and tea in warm morning sunlight, peaceful, no people",
+   "insan": false,
+   "yer": "Buhârî, Rikâk 15 · Müslim, Zekât 120",
+   "sicak": true
+  },
+  {
+   "text": "Yani asıl hesap, kasada değil kalpte.",
+   "prompt": "a small potted plant on a sunny windowsill, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün sahip olduğun üç şeyi say ve Elhamdülillah de.",
+   "prompt": "ONE single faceless bare-headed man sitting on a balcony at sunrise with a cup of tea, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Gönül tokluğu çalışmamak değil; yetinmeyi bilmek.",
+   "prompt": "a worn leather work bag and a lunch box by a door in morning light, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, hep bir sonraki maaşı bekleyen bir arkadaşına gönder.",
+   "prompt": "two faceless bare-headed men sharing a simple meal on a bench in a park at noon, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Zenginlik, mal çokluğu değil gönül tokluğudur.",
+ "kaynak": "Buhârî, Rikâk 15 · Müslim, Zekât 120",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Asıl zenginlik nerede? 💛\n\nGözün doymadıkça hiçbir şey yetmez. Bugün hangi nimet için şükredeceksin?\n\nKaynak: Buhârî, Rikâk 15 · Müslim, Zekât 120\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#kanaat",
+  "#şükür",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://webdosya.diyanet.gov.tr/ramazan/UserFiles/00000000-0000-0000-0000-000000000000/2024/3/14/5a19d91c-2806-4cba-a72b-c5c497335873.pdf (Diyanet: 'Zenginlik, mal çokluğu değil gönül tokluğudur.' Buhârî, Rikâk 15 (B6446); Müslim, Zekât 120 (M2420))",
+  "https://hadeethenc.com/tr/browse/hadith/3852 (Sahih, muttefekun aleyh)",
+  "https://www.islamveihsan.com/asil-zenginlik-gonul-zenginligidir-hadisi.html (Riyâzü's-Sâlihîn tercümesi)"
+ ]
+}
