@@ -1,0 +1,70 @@
+{
+ "id": "043",
+ "slug": "zerre_kadar",
+ "title": "Zerre Kadar",
+ "seed": 9463,
+ "kanca_yazi": "Bu kadarcık iyilik sayılır mı ki?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Otobüste yerini yaşlı bir teyzeye verdin. Kimse görmedi, kimse teşekkür etmedi.",
+   "prompt": "exactly two faceless figures on a city bus in morning light: ONE bare-headed young man standing and holding the rail, ONE elderly woman in a headscarf sitting in the seat he left, seen from the side"
+  },
+  {
+   "text": "İçinden geçti: Bu kadarcık şey sayılır mı ki?",
+   "prompt": "an empty bus seat bathed in soft morning light through the window, no people",
+   "insan": false
+  },
+  {
+   "text": "Kur'an bu soruya çok net cevap veriyor.",
+   "prompt": "tiny dust particles floating in a beam of sunlight in a quiet room, no people",
+   "insan": false
+  },
+  {
+   "text": "Allah Zilzâl Suresi'nde buyuruyor: Artık kim zerre ağırlığınca bir hayır işlerse, onun mükâfatını görecektir.",
+   "prompt": "an open book on a wooden folding reading stand under a soft beam of morning light, no visible text, no people",
+   "insan": false,
+   "yer": "Zilzâl 99/7-8 (Diyanet meali)",
+   "sicak": true
+  },
+  {
+   "text": "Zerre: Gözle zor görülen en küçük parça. O bile kayda geçiyor.",
+   "prompt": "a single glowing speck of light floating above a calm dark lake at dawn, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Ayetin devamı da aynı ölçüyü söyler. Küçük bir kötülüğü de hafife alma.",
+   "prompt": "a quiet path through a misty field at sunrise with small stones along the way, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bugün küçük bir iyilik yap ve kimseye söyleme.",
+   "prompt": "ONE single faceless bare-headed man quietly placing a bag of groceries in front of a neighbor's door in an apartment hallway, seen from behind, warm light",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, yaptığı iyiliği değersiz sanan birine gönder.",
+   "prompt": "two faceless women in headscarves walking together on a sunny sidewalk, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Artık kim zerre ağırlığınca bir hayır işlerse, onun mükâfatını görecektir. Kim de zerre ağırlığınca bir kötülük işlerse, onun cezasını görecektir.",
+ "kaynak": "Zilzâl 99/7-8",
+ "kart_baslik": "ÂYET-İ KERÎME",
+ "caption": "Küçük iyilik diye bir şey var mı? ✨\n\nKur'an'a göre zerresi bile kayıtta. Bugün kimsenin görmediği hangi iyiliği yapacaksın?\n\nKaynak: Zilzâl 99/7-8 (Diyanet meali)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#ayet",
+  "#kuran",
+  "#iyilik",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://acikkuran.com/zilzal-suresi/7-ayet-meali (Diyanet İşleri Türkçe Meali: 'Artık kim zerre ağırlığınca bir hayır işlerse, onun mükafatını görecektir.')",
+  "https://acikkuran.com/zilzal-suresi/8-ayet-meali (Diyanet İşleri Türkçe Meali: 'Kim de zerre ağırlığınca bir kötülük işlerse, onun cezasını görecektir.')",
+  "https://www.kuranmeali.com/AyetKarsilastirma.php?sure=99&ayet=7 (Diyanet İşleri Meali (Yeni), aynı metin)",
+  "https://kuran.diyanet.gov.tr/tefsir/Zilz%C3%A2l-suresi/6145/7-8-ayet-tefsiri (Kur'an Yolu tefsiri, anlam teyidi)"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "id": "042",
+ "slug": "dile_hafif",
+ "title": "Dile Hafif",
+ "seed": 9452,
+ "kanca_yazi": "Durakta beklerken terazin ağırlaşabilir mi?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Sabah durakta otobüs bekliyorsun. Elin yine telefona gidiyor.",
+   "prompt": "ONE single faceless bare-headed man standing at a bus stop at dawn holding a phone, seen from the side, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings"
+  },
+  {
+   "text": "Oysa bu bekleyişi değerli kılacak iki kısa cümle var.",
+   "prompt": "an empty bus stop shelter at sunrise with soft mist on the street, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false
+  },
+  {
+   "text": "Söylemesi beş saniye bile sürmez.",
+   "prompt": "close-up of a simple wristwatch on a bus stop bench in morning light, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: İki kelime vardır ki dile kolay, mizanda ağır, Rahman'a sevimlidir.",
+   "prompt": "an antique brass balance scale glowing in warm sunrise light in a quiet room, no people",
+   "insan": false,
+   "yer": "Buhârî 6406 · Müslim 2694",
+   "sicak": true
+  },
+  {
+   "text": "Sübhanallahil azim. Sübhanallahi ve bihamdihi.",
+   "prompt": "golden morning light pouring over a calm empty street with long soft shadows, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Otobüste, kuyrukta, asansörde. Dilin boşta kalmasın.",
+   "prompt": "ONE single faceless bare-headed man sitting by a bus window at sunrise, phone in his pocket, looking outside, seen from behind",
+   "sicak": true
+  },
+  {
+   "text": "Bugün her beklediğinde bu iki cümleyi söyle.",
+   "prompt": "ONE single faceless woman in a headscarf waiting in a short calm queue at a bakery in the morning, seen from behind, warm light",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, her sabah yolda vakit geçiren birine gönder.",
+   "prompt": "two faceless bare-headed men walking side by side to a bus stop at sunrise, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "İki kelime vardır ki dile kolay, mizanda ağır gelir ve Rahman'a sevimlidir: Sübhânallâhi'l-azîm, Sübhânallâhi ve bihamdihî.",
+ "kaynak": "Buhârî 6406 · Müslim 2694",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Beş saniyelik iki cümle ⚖️\n\nBeklerken geçen dakikalar boşa gitmesin. Bugün en çok nerede bekliyorsun?\n\nKaynak: Buhârî, Deavât 65 (6406) · Müslim, Zikr 31 (2694)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#zikir",
+  "#sabah",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5507 (Sahih, muttefekun aleyh; Ebû Hüreyre; Sahih-i Buhârî 6406: 'İki kelime vardır ki dile kolay, mizanda ağır gelir ve Rahman'a sevimlidir...')",
+  "https://hadithprophet.com/Hadith-translation-61667.html (aynı hadis, Buhârî ve Müslim)",
+  "https://www.sunnah.global/hadeeth/tr/pdf/5507 (hadeethenc Türkçe PDF, aynı metin ve derece)"
+ ]
+}

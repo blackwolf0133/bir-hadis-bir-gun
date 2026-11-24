@@ -1,0 +1,69 @@
+{
+ "id": "045",
+ "slug": "ayakkabi_bagi",
+ "title": "Ayakkabı Bağı",
+ "seed": 9485,
+ "kanca_yazi": "Ayakkabını bağlarken cenneti düşündün mü?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Kapıda eğilip ayakkabını bağlıyorsun. Her sabah aynı hareket.",
+   "prompt": "ONE single faceless bare-headed man bending down to tie his shoelaces at an apartment doorway in morning light, seen from the side"
+  },
+  {
+   "text": "O bağ, sana o kadar yakın ki fark etmezsin bile.",
+   "prompt": "close-up of a pair of shoes with tied laces on a doormat in soft morning light, no people",
+   "insan": false
+  },
+  {
+   "text": "Cennet ise bazen çok uzak, ulaşılmaz gelir.",
+   "prompt": "a distant glowing valley beyond misty mountains at sunrise, wide view, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Cennet size, ayakkabınızın bağından daha yakındır. Cehennem de öyledir.",
+   "prompt": "a garden path lined with green trees leading toward warm golden light, no people",
+   "insan": false,
+   "yer": "Buhârî, Rikâk 29",
+   "sicak": true
+  },
+  {
+   "text": "Bir güzel söz, bir sabır seni yaklaştırabilir.",
+   "prompt": "a blooming small tree in a sunny courtyard with soft petals falling, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Kırıcı bir cümle de uzaklaştırabilir. İkisi de çok yakın.",
+   "prompt": "ONE single faceless bare-headed man standing still in a quiet hallway with a phone in his hand, choosing not to answer angrily, seen from behind, warm light",
+   "sicak": true
+  },
+  {
+   "text": "Bugün kapıdan çıkarken niyet et: Küçük şeyleri küçümsemeyeceğim.",
+   "prompt": "an apartment door opening onto a bright morning street, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bunu, her sabah aceleyle evden çıkan birine gönder.",
+   "prompt": "ONE single faceless woman in a headscarf walking out of an apartment building at sunrise with a bag on her shoulder, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Cennet size, ayakkabınızın bağından daha yakındır. Cehennem de öyledir.",
+ "kaynak": "Buhârî, Rikâk 29",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Cennet ne kadar uzak? 👟\n\nHer gün yaptığımız küçük seçimler kadar yakın. Bugün seni cennete yaklaştıracak küçük şey ne olsun?\n\nKaynak: Buhârî, Rikâk 29 (Buhârî 6488)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#cennet",
+  "#ahiret",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://www.islamveihsan.com/cennet-size-ayakkabinizin-bagindan-daha-yakindir-hadisi.html (İbn Mes'ûd: 'Cennet size, ayakkabınızın bağından daha yakındır. Cehennem de öyledir.' Buhârî, Rikâk 29)",
+  "https://hadeethenc.com/az/browse/hadith/3581 (Sahih; Sahih-i Buhârî 6488; râvi Abdullah b. Mes'ûd)",
+  "https://sunnah.com/bukhari:6488 (Sahih al-Bukhari 6488)"
+ ]
+}

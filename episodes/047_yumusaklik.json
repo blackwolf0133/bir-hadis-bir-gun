@@ -1,0 +1,68 @@
+{
+ "id": "047",
+ "slug": "yumusaklik",
+ "title": "Yumuşaklık",
+ "seed": 9507,
+ "kanca_yazi": "Haklıydın, ama çocuğun yine dinlemedi. Neden?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Ödev yine yapılmamış. Sesin farkında olmadan yükseldi.",
+   "prompt": "exactly two faceless figures in a small living room in the evening: ONE woman in a headscarf standing with her hands on her hips, ONE small child sitting at a desk with an open notebook, seen from the side"
+  },
+  {
+   "text": "Haklıydın. Ama çocuk sadece bağırışı duydu.",
+   "prompt": "a child's desk with an unfinished notebook and scattered colored pencils under a lamp, no people",
+   "insan": false
+  },
+  {
+   "text": "Kapı kapandı, ödev yine yarım kaldı.",
+   "prompt": "a closed child's bedroom door in a dim hallway with a thin line of light underneath, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Nerede yumuşaklık varsa orada güzellik vardır. Onun bulunmadığı her şey çirkindir.",
+   "prompt": "a soft warm lamp glowing in a quiet cozy room at night, a folded blanket on a chair, no people",
+   "insan": false,
+   "yer": "Müslim, Birr 78",
+   "sicak": true
+  },
+  {
+   "text": "Aynı söz, yumuşak söylenince kalbe ulaşır.",
+   "prompt": "a small potted plant on a windowsill at dusk with warm light behind it, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bu akşam diz çök, göz hizasına in, sesini alçalt.",
+   "prompt": "exactly two faceless figures: ONE woman in a headscarf kneeling beside ONE small child at a desk, both looking at a notebook together, warm lamp light, seen from the side",
+   "sicak": true
+  },
+  {
+   "text": "Haklı olmak yetmez; güzel söylemek de gerekir.",
+   "prompt": "exactly two faceless figures sitting together on a sofa in the evening: ONE bare-headed man with his arm around ONE small child, seen from behind, warm light",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, ödev saatinde sabrı tükenen bir anne babaya gönder.",
+   "prompt": "exactly three faceless figures walking together in a park at sunset: ONE woman in a headscarf, ONE bare-headed man and ONE small child between them, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Nerede yumuşaklık varsa orada güzellik vardır. Onun bulunmadığı her şey de çirkindir.",
+ "kaynak": "Müslim, Birr 78",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Haklı olmak yetmiyor 🌿\n\nAynı söz, yumuşak söylenince kalbe ulaşıyor. Bu akşam kime daha yumuşak davranacaksın?\n\nKaynak: Müslim, Birr 78 (Müslim 2594)\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#aile",
+  "#yumuşaklık",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://hadeethenc.com/tr/browse/hadith/5796 (Sahih; Hz. Âişe; Sahih-i Müslim 2594: 'Nerede yumuşak huyluluk, kolaylık varsa orada güzellik vardır...')",
+  "https://www.islamveihsan.com/yumusak-huylu-olmanin-guzelligi.html (Riyâzü's-Sâlihîn: 'Nerede rıfk varsa, orada güzellik vardır. Onun bulunmadığı her şey de çirkindir.' Müslim, Birr 78; Ebû Dâvûd, Edeb 10)",
+  "https://sunnah.com/muslim:2594a (Sahih Muslim 2594a)"
+ ]
+}

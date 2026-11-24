@@ -1,0 +1,67 @@
+{
+ "id": "044",
+ "slug": "her_duydugun",
+ "title": "Her Duyduğun",
+ "seed": 9474,
+ "kanca_yazi": "Yalan söylemeden yalancı olunur mu?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Çay ocağında biri fısıldadı: Duydun mu, maaşlar bu ay yatmayacakmış.",
+   "prompt": "exactly two faceless bare-headed men in work clothes standing by a small tea counter in an office kitchen, one leaning toward the other, seen from the side"
+  },
+  {
+   "text": "Kim söyledi? Belli değil. Doğru mu? O da belli değil.",
+   "prompt": "two tea glasses on a small office kitchen counter, steam rising, no people",
+   "insan": false
+  },
+  {
+   "text": "Ama akşam olmadan bütün kat duymuştu.",
+   "prompt": "a long empty office corridor at dusk with open doors and warm lamps, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Her duyduğunu nakletmesi, kişiye yalan olarak yeter.",
+   "prompt": "a quiet desk by a window at sunset with a closed notebook and a pen, soft warm light, no people",
+   "insan": false,
+   "yer": "Müslim, Mukaddime 5",
+   "sicak": true
+  },
+  {
+   "text": "Yani yalanı sen uydurmasan da, araştırmadan yayınca ortak olursun.",
+   "prompt": "a single candle burning steadily on a wooden table in a calm dark room, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Anlatmadan önce sor: Doğru mu? Faydalı mı? Bana mı düşer?",
+   "prompt": "ONE single faceless bare-headed man pausing at his office desk with a thoughtful posture, looking out the window at sunset, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Emin değilsen, söz sende dursun.",
+   "prompt": "ONE single faceless bare-headed man walking home on a quiet street at dusk with his hands in his pockets, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, her haberi herkesten önce duyan o arkadaşına gönder.",
+   "prompt": "two faceless bare-headed men laughing together on a bench by a park at sunset, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Her duyduğunu nakletmesi, kişiye yalan olarak yeter.",
+ "kaynak": "Müslim, Mukaddime 5",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Duyduğun her şeyi anlatma 🤫\n\nAraştırmadan yaymak da bir tür yalan. En son hangi haberi doğrulamadan anlattın?\n\nKaynak: Müslim, Mukaddime 5\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#dil",
+  "#söz",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://www.islamveihsan.com/her-duydugunu-soylemesi-kisiye-yalan-olarak-yeter-hadisi.html (Riyâzü's-Sâlihîn; Ebû Hüreyre: 'Her duyduğunu nakletmesi kişiye yalan olarak yeter.' Müslim, Mukaddime 5)",
+  "https://sunnah.com/muslim:5 (Sahih Müslim 5, Mukaddime: 'It is enough of a lie for a man to narrate everything he hears')"
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": "046",
+ "slug": "eksilmez",
+ "title": "Eksilmez",
+ "seed": 9496,
+ "kanca_yazi": "Cüzdandan çıkan para nasıl eksilmez?",
+ "characters": {},
+ "scenes": [
+  {
+   "text": "Kasada sıra sende. Yanında bir yardım kutusu duruyor.",
+   "prompt": "a supermarket checkout counter with a small donation box beside the register, warm evening light, no people",
+   "insan": false
+  },
+  {
+   "text": "İçinden geçiyor: Önce ben bir doğrulayım.",
+   "prompt": "ONE single faceless bare-headed man holding an open wallet at a supermarket checkout, hesitating, seen from the side"
+  },
+  {
+   "text": "Vermek, cebinden bir parça kopmuş gibi geliyor.",
+   "prompt": "a worn leather wallet with a few coins on a kitchen table under a lamp, no people",
+   "insan": false
+  },
+  {
+   "text": "Peygamber Efendimiz buyurdu: Sadaka vermekle mal eksilmez.",
+   "prompt": "a single loaf of fresh bread on a wooden table in a beam of warm sunlight, no people",
+   "insan": false,
+   "yer": "Müslim, Birr 69",
+   "sicak": true
+  },
+  {
+   "text": "Devamı da güzel: Affedenin değerini Allah artırır. Alçak gönüllü olanı yüceltir.",
+   "prompt": "wheat fields swaying under a golden sunset sky, no people",
+   "insan": false,
+   "sicak": true
+  },
+  {
+   "text": "Bereket, hesap makinesinin göremediği yerde.",
+   "prompt": "exactly three faceless figures sharing a simple dinner at a warmly lit table: ONE woman in a headscarf, ONE bare-headed man and ONE small child, seen from the side",
+   "sicak": true
+  },
+  {
+   "text": "Büyük bir miktar gerekmez. Bugün az da olsa, kimse görmeden ver.",
+   "prompt": "ONE single faceless bare-headed man dropping a folded banknote into a small donation box, close-up of his hand, warm light",
+   "sicak": true
+  },
+  {
+   "text": "Bunu, cömertliğiyle sana örnek olan birine gönder.",
+   "prompt": "two faceless bare-headed men walking out of a neighborhood market at dusk carrying bags, seen from behind, plain modern apartment blocks only in the background, no domes, no spires, no towers, no religious buildings",
+   "sicak": true
+  }
+ ],
+ "hisse": "Sadaka vermekle mal eksilmez. Allah affeden kulunun değerini artırır. Allah rızası için alçak gönüllü olanı Allah yüceltir.",
+ "kaynak": "Müslim, Birr 69",
+ "kart_baslik": "HADİS-İ ŞERİF",
+ "caption": "Verdikçe eksilmeyen tek şey 🤲\n\nHesap makinesi göstermez ama bereket vardır. En son kimse görmeden ne zaman verdin?\n\nKaynak: Müslim, Birr 69\n\nHer gün yeni bir hadis için takip et 🤍",
+ "hashtags": [
+  "#hadis",
+  "#sadaka",
+  "#bereket",
+  "#islam",
+  "#birhadisbirgün"
+ ],
+ "kaynaklar": [
+  "https://www.islamveihsan.com/sadaka-mali-eksiltmez-hadisi.html (Riyâzü's-Sâlihîn, Erkam; Ebû Hüreyre: 'Sadaka vermekle mal eksilmez. Allah Teâlâ affeden kulunun değerini artırır. Allah rızâsı için alçak gönüllü olanı Allah yüceltir.' Müslim, Birr 69; Tirmizî, Birr 82)",
+  "https://sorularlaislamiyet.com/hatayi-bagislamak-serefi-artirir-mi (aynı hadis, Müslim, Birr 69)"
+ ]
+}
